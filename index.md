@@ -25,6 +25,8 @@ Email: chenjiamin@csu.edu.cn
    
 ### Publications
 ***
+* **Spatio-Temporal Based Architecture Topology Search For Multivariate Time Series Prediction** <br> Xinqi Lyu, Yibo Chen, **Jiamin Chen**, Xiangyue Liu, Jianliang Gao (<font face="微软雅黑" color=blue size=3>IEEE BigData</font> 2022 CCF C). <font face="微软雅黑" color=blue size=3>Accepted</font>
+* **Glycan Immunogenicity Prediction with Efficient Automatic Graph Neural Network** <br> **Jiamin Chen**, Zhenpeng Wu, Jianliang Gao, Xiaohua Hu (<font face="微软雅黑" color=blue size=3>BIBM</font> 2022 CCF B). <font face="微软雅黑" color=blue size=3>Accepted</font>
 * **Multi-view Graph Neural Architecture Search for Biomedical Entity and Relation Extraction.** <br> Raeed AI-Sabri, Jianliang Gao, **Jiamin Chen**, Babatounde MOCTARD Oloulade, Tengfei Lyu (<font face="微软雅黑" color=blue size=3>TCBB</font> 2022 CCF B). [Paper](https://ieeexplore.ieee.org/document/9881878)
 * **AutoMSR: Auto Molecular Structure Representation Learning for Multi-label Metabolic Pathway Prediction.** <br> **Jiamin Chen**, Jianliang Gao, Tengfei Lyu, Babatounde MOCTARD Oloulade, Xiaohua Hu (<font face="微软雅黑" color=blue size=3>TCBB</font> 2022 CCF B). [Paper](https://ieeexplore.ieee.org/document/9864145) [Code](https://github.com/AutoMachine0/Auto-MSR)
 * **Memory Augmented Graph Learning Networks for Multivariate time series Forecasting.** <br> Xiangyue Liu, Xinqi Lyu, Xiangchi Zhang, Jianliang Gao, **Jiamin Chen** (<font face="微软雅黑" color=blue size=3>CIKM</font> 2022 CCF B). <font face="微软雅黑" color=blue size=3>Accepted</font>
