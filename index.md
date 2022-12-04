@@ -25,6 +25,7 @@ Email: chenjiamin@csu.edu.cn
    
 ### Publications
 ***
+* **Neural Predictor-Based Automated Graph Classifier Framework** <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Raeed Al-Sabri, Tengfei Lyu (<font face="微软雅黑" color=blue size=3>Machine Learning</font> 2022 CCF B). <font face="微软雅黑" color=blue size=3>Accepted</font>
 * **Spatio-Temporal Based Architecture Topology Search For Multivariate Time Series Prediction.** <br> Xinqi Lyu, Yibo Chen, **Jiamin Chen**, Xiangyue Liu, Jianliang Gao (<font face="微软雅黑" color=blue size=3>IEEE BigData</font> 2022 CCF C). <font face="微软雅黑" color=blue size=3>Accepted</font>
 * **Glycan Immunogenicity Prediction with Efficient Automatic Graph Neural Network.** <br> **Jiamin Chen**, Zhenpeng Wu, Jianliang Gao, Xiaohua Hu (<font face="微软雅黑" color=blue size=3>BIBM</font> 2022 CCF B). <font face="微软雅黑" color=blue size=3>Accepted</font>
 * **Multi-view Graph Neural Architecture Search for Biomedical Entity and Relation Extraction.** <br> Raeed AI-Sabri, Jianliang Gao, **Jiamin Chen**, Babatounde MOCTARD Oloulade, Tengfei Lyu (<font face="微软雅黑" color=blue size=3>TCBB</font> 2022 CCF B). [Paper](https://ieeexplore.ieee.org/document/9881878)
