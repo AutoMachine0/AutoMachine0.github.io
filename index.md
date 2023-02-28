@@ -14,8 +14,8 @@ Wechat: radiocjm
 Github: [https://github.com/AutoMachine0](https://github.com/AutoMachine0)
 
 <font color=red>I am looking for a suitable position in industry or academia!</font> 
-
-<font color=red>If you are interested in me, contact me via Email or Wechat.</font> 
+<br>
+<font color=red>If you are interested in me, please feel free to contact me via Email or Wechat.</font> 
 
 ### Educations
 ***
@@ -98,8 +98,8 @@ Github: [https://github.com/AutoMachine0](https://github.com/AutoMachine0)
 ### Professional Services
 ***
 #### Reviewer
-* The Association for the Advancement of Artificial Intelligence (AAAI)
-* The International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
+* The Association for the Advancement of Artificial Intelligence (**AAAI**)
+* The International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)
 * IEEE International Conference on Big Data
 
 #### Teaching Assistant
@@ -109,7 +109,7 @@ Github: [https://github.com/AutoMachine0](https://github.com/AutoMachine0)
 ***
 * **National Scholarships for Doctoral Students**, 2022.
 * **First-class Academic Scholarship for Doctoral Students (CSU)**, 2021, 2022.
-* **ACM SIGIR Student Travel Grants**, 2021
+* **ACM SIGIR Student Travel Grants**, 2021.
 * **First-class Scholarship for Excellent Postgraduate Students (NCU)**, 2016.
 * **Excellent Student Cadres for Postgraduate Students (NCU)**, 2015.
 * **Excellent Postgraduate Student of the College of Science (NCU)**, 2015.
