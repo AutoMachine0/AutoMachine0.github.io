@@ -13,8 +13,7 @@ Wechat: radiocjm
 
 Github: [https://github.com/AutoMachine0](https://github.com/AutoMachine0)
 
-<font color=red>I am looking for a suitable position in industry or academia!</font> 
-<br> <font color=red>If you are interested in me, please feel free to contact me via Email or Wechat.</font> 
+<font color=red>I am looking for a suitable position in industry or academia!<br>If you are interested in me, please feel free to contact me via Email or Wechat.</font> 
 
 ### Educations
 ***
