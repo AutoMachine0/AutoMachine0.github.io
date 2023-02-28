@@ -111,7 +111,7 @@ Github: [https://github.com/AutoMachine0](https://github.com/AutoMachine0)
 * **First-class Scholarship for Excellent Postgraduate Students (NCU)**, 2016.
 * **Excellent Student Cadres for Postgraduate Students (NCU)**, 2015.
 * **Excellent Postgraduate Student of the College of Science (NCU)**, 2015.
-* **First-class Academic Scholarship for Postgraduate Students (NCU)**, 2015, 2016, 2017.
+* **First-class Academic Scholarship for Postgraduate Students (NCU)**, 2014, 2015, 2016.
 * **Excellent Undergraduate Graduates (NCU)**, 2014.
 * **First-class Scholarship for Excellent Undergraduate Students (NCU)**, 2013.
 
