@@ -14,8 +14,7 @@ Wechat: radiocjm
 Github: [https://github.com/AutoMachine0](https://github.com/AutoMachine0)
 
 <font color=red>I am looking for a suitable position in industry or academia!</font> 
-<br>
-<font color=red>If you are interested in me, please feel free to contact me via Email or Wechat.</font> 
+<br> <font color=red>If you are interested in me, please feel free to contact me via Email or Wechat.</font> 
 
 ### Educations
 ***
@@ -87,12 +86,12 @@ Github: [https://github.com/AutoMachine0](https://github.com/AutoMachine0)
 ### Patents
 ***
 * **Community Discovery Method and Personalized Recommendation based on Graph Neural Network Automatic Modeling.** 
-<br>Jianliang Gao, **Jiamin Chen**. 
+<br>Jianliang Gao, **Jiamin Chen**
 <br>Chinese Patent. Number: ZL 2022 1 0254385.9
 
 
 * **Graph Neural Network Architecture Optimization Search Method.**
-<br>Jianliang Gao, **Jiamin Chen**.
+<br>Jianliang Gao, **Jiamin Chen**
 <br>Chinese Patent. Number: CN113379035A
 
 ### Professional Services
