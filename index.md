@@ -38,7 +38,7 @@ Github: [https://github.com/AutoMachine0](https://github.com/AutoMachine0)
 
 * **Spatio-Temporal Based Architecture Topology Search For Multivariate Time Series Prediction.** 
 <br> Xinqi Lyu, Yibo Chen, **Jiamin Chen**, Xiangyue Liu, Jianliang Gao 
-<br> <font face="微软雅黑" color=blue size=3>IEEE International Conference on Big Data.</font>, 2022 CCF C, [Paper](https://ieeexplore.ieee.org/document/10020729).
+<br> <font face="微软雅黑" color=blue size=3>IEEE International Conference on Big Data</font>, 2022 CCF C, [Paper](https://ieeexplore.ieee.org/document/10020729).
 
 * **Glycan Immunogenicity Prediction with Efficient Automatic Graph Neural Network.** <br> **Jiamin Chen**, Zhenpeng Wu, Jianliang Gao, Xiaohua Hu 
 <br> <font face="微软雅黑" color=blue size=3>IEEE International Conference on Bioinformatics and Biomedicine</font>, 2022 CCF B, [Paper](https://ieeexplore.ieee.org/document/9995685).
@@ -52,11 +52,11 @@ Github: [https://github.com/AutoMachine0](https://github.com/AutoMachine0)
 
 * **Memory Augmented Graph Learning Networks for Multivariate time series Forecasting.** 
 <br> Xiangyue Liu, Xinqi Lyu, Xiangchi Zhang, Jianliang Gao, **Jiamin Chen** 
-<br> <font face="微软雅黑" color=blue size=3>The Conference on Information and Knowledge Management </font>, 2022 CCF B, [Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557638).
+<br> <font face="微软雅黑" color=blue size=3>The Conference on Information and Knowledge Management</font>, 2022 CCF B, [Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557638).
 
 * **Auto-GNAS: A Parallel Graph Neural Architecture Search Framework.** 
 <br> **Jiamin Chen**, Jianliang Gao, Yibo Chen, Babatounde MOCTARD Oloulade, Tengfei Lyu, Zhao Li 
-<br><font face="微软雅黑" color=blue size=3>IEEE IEEE Transactions on Parallel and Distributed Systems</font>, 2022 CCF A, [Paper](https://ieeexplore.ieee.org/document/9714826), [Code](https://github.com/AutoMachine0/Auto-GNAS).
+<br><font face="微软雅黑" color=blue size=3>IEEE Transactions on Parallel and Distributed Systems</font>, 2022 CCF A, [Paper](https://ieeexplore.ieee.org/document/9714826), [Code](https://github.com/AutoMachine0/Auto-GNAS).
 
 * **Identification of new M 31 star cluster candidates from PAndAS images using convolutional neural networks.** 
 <br> Shoucheng Wang, Bingqiu Chen, Jun Ma, Qian Long, Haibo Yuan, Dezi Liu, Zhimin Zhou, Wei Liu, **Jiamin Chen**, Zizhao He 
