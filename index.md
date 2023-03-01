@@ -17,7 +17,7 @@ Github: [https://github.com/AutoMachine0](https://github.com/AutoMachine0)
 
 ### Educations
 ***
-* **Central South University**<br>PhD in Computer Science and Technology, from September 2020 to June 2024(Expected).
+* **Central South University**<br>PhD in Computer Science and Technology, from September 2020 to June 2024 (Expected).
   
 * **Nanchang University**<br>M.S. in Radio Physics, from September 2014 to June 2017.
 
@@ -84,35 +84,36 @@ Github: [https://github.com/AutoMachine0](https://github.com/AutoMachine0)
 
 ### Patents
 ***
-* **Community Discovery Method and Personalized Recommendation based on Graph Neural Network Automatic Modeling.** 
+* **Community Discovery and Personalized Recommendation based on Graph Neural Network Automatic Modeling.** 
 <br>Jianliang Gao, **Jiamin Chen**
 <br>Chinese Patent. Number: ZL 2022 1 0254385.9
 
 
-* **Graph Neural Network Architecture Optimization Search Method.**
+* **Graph Neural Network Architecture Optimization Search.**
 <br>Jianliang Gao, **Jiamin Chen**
 <br>Chinese Patent. Number: CN113379035A
 
 ### Professional Services
 ***
 #### Reviewer
-* The Association for the Advancement of Artificial Intelligence (**AAAI**)
-* The International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)
-* IEEE International Conference on Big Data
+* The International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**) 2023
+* The Association for the Advancement of Artificial Intelligence (**AAAI**) 2022
+* IEEE International Conference on Big Data 2021
 
 #### Teaching Assistant
 * University Physics, Nanchang University, Spring 2015.
 
 ### Honors and Awards
 ***
-* **National Scholarships for Doctoral Students**, 2022.
+* **National Scholarship for Doctoral Students**, 2022.
+* **Enterprise Scholarship for Doctoral Students (CSU)**, 2022.
 * **First-class Academic Scholarship for Doctoral Students (CSU)**, 2021, 2022.
 * **ACM SIGIR Student Travel Grants**, 2021.
 * **First-class Scholarship for Excellent Postgraduate Students (NCU)**, 2016.
 * **Excellent Student Cadres for Postgraduate Students (NCU)**, 2015.
 * **Excellent Postgraduate Student of the College of Science (NCU)**, 2015.
 * **First-class Academic Scholarship for Postgraduate Students (NCU)**, 2014, 2015, 2016.
-* **Excellent Undergraduate Graduates (NCU)**, 2014.
+* **Excellent Graduates (NCU)**, 2014.
 * **First-class Scholarship for Excellent Undergraduate Students (NCU)**, 2013.
 
 
