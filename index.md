@@ -98,7 +98,7 @@ Github: [https://github.com/AutoMachine0](https://github.com/AutoMachine0)
 #### Reviewer
 * The International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**) 2023
 * The Association for the Advancement of Artificial Intelligence (**AAAI**) 2022
-* IEEE International Conference on Big Data 2021
+* IEEE Transactions on Big Data 2021
 
 #### Teaching Assistant
 * University Physics, Nanchang University, Spring 2015.
