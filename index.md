@@ -1,4 +1,4 @@
-## <font face="微软雅黑" color=white size=5>Jiamin Chen (陈家民)</font>
+## <font face="微软雅黑" color=white size=3>Jiamin Chen (陈家民)</font>
 
 <div align=center> <img src="pic/photo.jpg" height="25%" width="25%"/>  </div>
 
