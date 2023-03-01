@@ -103,7 +103,7 @@ Github: [https://github.com/AutoMachine0](https://github.com/AutoMachine0)
 #### Teaching Assistant
 * University Physics, Nanchang University, Spring 2015.
 
-### Honors and Awards
+### Selected Honors and Awards
 ***
 * **National Scholarship for Doctoral Students**, 2022.
 * **Enterprise Scholarship for Doctoral Students (CSU)**, 2022.
