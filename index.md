@@ -13,7 +13,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 
 **Github**: [https://github.com/AutoMachine0](https://github.com/AutoMachine0)
 
-<font color=red>I am looking for a suitable position in industry or academia!<br>If you are interested in me, please feel free to contact me via Email or Wechat.</font> 
+<font color=red>I am looking for a suitable position in industry or academia!<br>If you are interested in me, please feel free to contact me via Email or WeChat.</font> 
 
 ### **Educations**
 ***
