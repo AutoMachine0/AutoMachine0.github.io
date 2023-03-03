@@ -5,7 +5,7 @@
 
 ### About me
 ***
-I am currently a PhD student at Central South University (CSU). I received the master's and bachelor's degree from Nanchang University (NCU). My reserach interests are the Data Mining and the Automatic Machine Learning on Graph.
+I am currently a Ph.D. student at Central South University (CSU). I received my master's and bachelor's degree from Nanchang University (NCU). My research interests are Data Mining and Automatic Machine Learning on Graph.
 
 Email: chenjiamin@csu.edu.cn
 
