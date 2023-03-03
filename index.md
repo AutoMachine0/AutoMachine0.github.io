@@ -5,19 +5,19 @@
 
 ### About me
 ***
-I am currently a Ph.D. student at Central South University (CSU). I received my master's and bachelor's degree from Nanchang University (NCU). My research interests are Data Mining and Automatic Machine Learning on Graph.
+I am currently a Ph.D. student at Central South University (CSU). I received my M.S. and B.S. degree from Nanchang University (NCU). My research interests are Data Mining and Automatic Machine Learning on Graph.
 
-Email: chenjiamin@csu.edu.cn
+**Email**: chenjiamin@csu.edu.cn
 
-Wechat: radiocjm
+**WeChat**: radiocjm
 
-Github: [https://github.com/AutoMachine0](https://github.com/AutoMachine0)
+**Github**: [https://github.com/AutoMachine0](https://github.com/AutoMachine0)
 
 <font color=red>I am looking for a suitable position in industry or academia!<br>If you are interested in me, please feel free to contact me via Email or Wechat.</font> 
 
 ### Educations
 ***
-* **Central South University**<br>PhD in Computer Science and Technology, from September 2020 to June 2024 (Expected).
+* **Central South University**<br>Ph.D. in Computer Science and Technology, from September 2020 to June 2024 (Expected).
   
 * **Nanchang University**<br>M.S. in Radio Physics, from September 2014 to June 2017.
 
