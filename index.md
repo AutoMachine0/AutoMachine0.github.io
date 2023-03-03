@@ -3,7 +3,7 @@
 <div align=center> <img src="pic/photo.jpg" height="25%" width="25%"/>  </div>
 
 
-### About me
+### **About me**
 ***
 I am currently a Ph.D. student at Central South University (CSU). I received my M.S. and B.S. degree from Nanchang University (NCU). My research interests are Data Mining and Automatic Machine Learning on Graph.
 
