@@ -15,7 +15,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 
 <font color=red>I am looking for a suitable position in industry or academia!<br>If you are interested in me, please feel free to contact me via Email or Wechat.</font> 
 
-### Educations
+### **Educations**
 ***
 * **Central South University**<br>Ph.D. in Computer Science and Technology, from September 2020 to June 2024 (Expected).
   
@@ -23,14 +23,14 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 
 * **Nanchang University**<br>B.S. in Applied Physics, from September 2010 to June 2014.
   
-### Experiences
+### **Experiences**
 ***
 * **Iflytek**<br>Machine Translation Researcher, from October 2016 to February 2017.
    
 * **China Mobile Communications Group**<br>Machine Learning Algorithm Engineer, from June 2017 to July 2020.
    
    
-### Publications
+### **Publications**
 ***
 * **Neural Predictor-Based Automated Graph Classifier Framework.** 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Raeed Al-Sabri, Tengfei Lyu 
@@ -82,7 +82,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 <br> **Jiamin Chen**, Kai Yuan, Linfang Shen, Xiaohua Deng, Lujun Hong, Ming Yao 
 <br><font face="微软雅黑" color=blue size=3>Progress in Electromagnetics Research</font>, 2016 JCR Q1, [Paper](https://www.jpier.org/pier/pier.php?paper=16061202).
 
-### Patents
+### **Patents**
 ***
 * **Community Discovery and Personalized Recommendation based on Graph Neural Network Automatic Modeling.** 
 <br>Jianliang Gao, **Jiamin Chen**
@@ -93,17 +93,17 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 <br>Jianliang Gao, **Jiamin Chen**
 <br>Chinese Patent. Number: CN113379035A
 
-### Professional Services
+### **Professional Services**
 ***
-#### Reviewer
+#### **Reviewer**
 * The International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**) 2023
 * The Association for the Advancement of Artificial Intelligence (**AAAI**) 2022
 * IEEE Transactions on Big Data 2021
 
-#### Teaching Assistant
+#### **Teaching Assistant**
 * University Physics, Nanchang University, Spring 2015.
 
-### Selected Honors and Awards
+### **Selected Honors and Awards**
 ***
 * **National Scholarship for Doctoral Students**, 2022.
 * **Enterprise Scholarship for Doctoral Students (CSU)**, 2022.
