@@ -33,8 +33,8 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 ### **Publications**
 ***
 * **GM2NAS: Multitask Multiview Graph Neural Architecture Search.** 
-<br> Jianliang Gao, Raeed Al-Sabri, Babatounde Moctard Oloulade, **Jiamin Chen<sup>#</sup>**, Tengfei Lyu and Zhenpeng Wu
-<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, (# corresponding author) **Accepted**
+<br> Jianliang Gao, Raeed Al-Sabri, Babatounde Moctard Oloulade, **Jiamin Chen<sup>\*</sup>**, Tengfei Lyu and Zhenpeng Wu
+<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, (\* corresponding author) **Accepted**
 
 * **CommGNAS: Unsupervised Graph Neural Architecture Search for Community Detection.** 
 <br> Jianliang Gao<sup>#</sup>, **Jiamin Chen<sup>#</sup>**, Babatounde Moctard Oloulade, Raeed Al-Sabri, Tengfei Lyu, Ji Zhang and Zhao Li.
@@ -42,7 +42,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 
 * **Neural Predictor-Based Automated Graph Classifier Framework.** 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Raeed Al-Sabri, Tengfei Lyu 
-<br> <font face="微软雅黑" color=blue size=3>Machine Learning</font>, 2022 CCF B, [Paper](https://link.springer.com/article/10.1007/s10994-022-06287-5).  
+<br> <font face="微软雅黑" color=blue size=3>Machine Learning</font>, 2022 CCF B, [Paper](https://link.springer.com/article/10.1007/s10994-022-06287-5).
 
 * **Spatio-Temporal Based Architecture Topology Search For Multivariate Time Series Prediction.** 
 <br> Xinqi Lyu, Yibo Chen, **Jiamin Chen**, Xiangyue Liu, Jianliang Gao 
