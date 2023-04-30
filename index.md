@@ -38,7 +38,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 
 * **CommGNAS: Unsupervised Graph Neural Architecture Search for Community Detection.** 
 <br> Jianliang Gao<sup>#</sup>, **Jiamin Chen<sup>#</sup>**, Babatounde Moctard Oloulade, Raeed Al-Sabri, Tengfei Lyu, Ji Zhang and Zhao Li.
-<br> <font face="微软雅黑" color=blue size=3>IEEE Transactions on Emerging Topics in Computing</font>, 2023 JCR Q1, (# equal contribution) **Accepted**
+<br> <font face="微软雅黑" color=blue size=3>IEEE Transactions on Emerging Topics in Computing</font>, 2023 JCR Q1, (# equal contribution) [Paper](https://ieeexplore.ieee.org/document/10112632).
 
 * **Neural Predictor-Based Automated Graph Classifier Framework.** 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Raeed Al-Sabri, Tengfei Lyu 
