@@ -52,7 +52,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 <br> <font face="微软雅黑" color=blue size=3>IEEE International Conference on Bioinformatics and Biomedicine</font>, 2022 CCF B, [Paper](https://ieeexplore.ieee.org/document/9995685).
 
 * **Multi-view Graph Neural Architecture Search for Biomedical Entity and Relation Extraction.** <br> Raeed AI-Sabri, Jianliang Gao, **Jiamin Chen**, Babatounde MOCTARD Oloulade, Tengfei Lyu 
-<br><font face="微软雅黑" color=blue size=3>IEEE/ACM Transactions on Computational Biology and Bioinformatics</font>, 2022 CCF B, [Paper](https://ieeexplore.ieee.org/document/9881878), [Code](https://github.com/alsabriraeed/MVGNAS)
+<br><font face="微软雅黑" color=blue size=3>IEEE/ACM Transactions on Computational Biology and Bioinformatics</font>, 2022 CCF B, [Paper](https://ieeexplore.ieee.org/document/9881878), [Code](https://github.com/alsabriraeed/MVGNAS).
 
 * **AutoMSR: Auto Molecular Structure Representation Learning for Multi-label Metabolic Pathway Prediction.** 
 <br> **Jiamin Chen**, Jianliang Gao, Tengfei Lyu, Babatounde MOCTARD Oloulade, Xiaohua Hu 
