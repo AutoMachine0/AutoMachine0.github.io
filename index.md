@@ -34,7 +34,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 ***
 * **GM2NAS: Multitask Multiview Graph Neural Architecture Search.** 
 <br> Jianliang Gao, Raeed Al-Sabri, Babatounde Moctard Oloulade, **Jiamin Chen<sup>\*</sup>**, Tengfei Lyu and Zhenpeng Wu
-<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, (\* corresponding author) **Accepted**
+<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, (\* corresponding author) [Paper](https://link.springer.com/article/10.1007/s10115-023-01886-7).
 
 * **CommGNAS: Unsupervised Graph Neural Architecture Search for Community Detection.** 
 <br>**Jiamin Chen<sup>#</sup>**, Jianliang Gao<sup>#</sup>, Babatounde Moctard Oloulade, Raeed Al-Sabri, Tengfei Lyu, Ji Zhang and Zhao Li.
