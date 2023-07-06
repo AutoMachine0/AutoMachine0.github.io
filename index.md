@@ -32,6 +32,15 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
    
 ### **Publications**
 ***
+
+* **Decoupled Graph Neural Architecture Search with Variable Propagation Operation and Appropriate Depth.** 
+<br> Jianliang Gao, Changlong He, **Jiamin Chen<sup>\*</sup>**, Qiutong Li and Yili Wang．
+<br> <font face="微软雅黑" color=blue size=3>International Conference on Scientific and Statistical Database Management</font>, 2023 CCF C, (\* corresponding author) Accepted.
+
+* **MSLS: Meta-graph Search with Learnable Supernet for Heterogeneous Graph Neural Networks.** 
+<br> Yili Wang<sup>#</sup>, **Jiamin Chen<sup>#</sup>**, Qiutong Li, Changlong He and Jianliang Gao．
+<br> <font face="微软雅黑" color=blue size=3>International Conference on Scientific and Statistical Database Management</font>, 2023 CCF C, (# equal contribution) Accepted.
+
 * **GM2NAS: Multitask Multiview Graph Neural Architecture Search.** 
 <br> Jianliang Gao, Raeed Al-Sabri, Babatounde Moctard Oloulade, **Jiamin Chen<sup>\*</sup>**, Tengfei Lyu and Zhenpeng Wu
 <br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, (\* corresponding author) [Paper](https://link.springer.com/article/10.1007/s10115-023-01886-7).
@@ -104,6 +113,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 ### **Professional Services**
 ***
 #### **Reviewer**
+* Briefings in Bioinformatics 2023
 * The International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**) 2023
 * The Association for the Advancement of Artificial Intelligence (**AAAI**) 2023
 * ACM Computing Surveys 2023
