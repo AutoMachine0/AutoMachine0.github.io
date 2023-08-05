@@ -33,6 +33,10 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 ### **Publications**
 ***
 
+* **DTSRN: Dynamic Temporal Spatial Relation Network for Stock Ranking Recommendation.** 
+<br> Yuhui Zhong<sup>#</sup>, **Jiamin Chen<sup>\#</sup>**, Jianliang Gao and Jiaheng Wang, Quan Wan．
+<br> <font face="微软雅黑" color=blue size=3>International Conference on Neural Information Processing</font>, 2023 CCF C, (# equal contribution) Accepted.
+
 * **Decoupled Graph Neural Architecture Search with Variable Propagation Operation and Appropriate Depth.** 
 <br> Jianliang Gao, Changlong He, **Jiamin Chen<sup>\*</sup>**, Qiutong Li and Yili Wang．
 <br> <font face="微软雅黑" color=blue size=3>International Conference on Scientific and Statistical Database Management</font>, 2023 CCF C, (\* corresponding author) Accepted.
