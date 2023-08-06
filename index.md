@@ -77,7 +77,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 
 * **Memory Augmented Graph Learning Networks for Multivariate time series Forecasting.** 
 <br> Xiangyue Liu, Xinqi Lyu, Xiangchi Zhang, Jianliang Gao, **Jiamin Chen** 
-<br> <font face="微软雅黑" color=blue size=3>The Conference on Information and Knowledge Management</font>, 2022 CCF B, [Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557638).
+<br> <font face="微软雅黑" color=blue size=3>ACM International Conference on Information and Knowledge Management</font>, 2022 CCF B, [Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557638).
 
 * **Auto-GNAS: A Parallel Graph Neural Architecture Search Framework.** 
 <br> **Jiamin Chen**, Jianliang Gao, Yibo Chen, Babatounde MOCTARD Oloulade, Tengfei Lyu, Zhao Li 
