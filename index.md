@@ -33,6 +33,10 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 ### **Publications**
 ***
 
+* **TemDep: Temporal Dependency Priority for Multivariate Time Series Prediction.** 
+<br> Shu Liu, Jiaheng Wang, **Jiamin Chen<sup>\*</sup>**, Jianliang Gao and Yuhui Zhong．
+<br> <font face="微软雅黑" color=blue size=3>ACM International Conference on Information and Knowledge Management</font>, 2023 CCF B, (\* corresponding author) Accepted.
+
 * **DTSRN: Dynamic Temporal Spatial Relation Network for Stock Ranking Recommendation.** 
 <br> Yuhui Zhong<sup>#</sup>, **Jiamin Chen<sup>\#</sup>**, Jianliang Gao and Jiaheng Wang, Quan Wan．
 <br> <font face="微软雅黑" color=blue size=3>International Conference on Neural Information Processing</font>, 2023 CCF C, (# equal contribution) Accepted.
