@@ -41,7 +41,6 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen<sup>\*</sup>**, Raeed Al-Sabri, and Zhenpeng Wu
 <br> <font face="微软雅黑" color=blue size=3>Bioinformatics</font>, 2023 CCF B, Accepted.
 
-
 * **TemDep: Temporal Dependency Priority for Multivariate Time Series Prediction.** 
 <br> Shu Liu, Jiaheng Wang, **Jiamin Chen<sup>\*</sup>**, Jianliang Gao and Yuhui Zhong．
 <br> <font face="微软雅黑" color=blue size=3>ACM International Conference on Information and Knowledge Management</font>, 2023 CCF B, (\* corresponding author) Accepted.
