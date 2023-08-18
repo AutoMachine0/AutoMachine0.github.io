@@ -39,7 +39,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 
 * **Cancer Drug Response Prediction With Surrogate Modeling-Based Graph Neural Architecture Search.** 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Raeed Al-Sabri and Zhenpeng Wu.
-<br> <font face="微软雅黑" color=blue size=3>Bioinformatics</font>, 2023 CCF B, Accepted.
+<br> <font face="微软雅黑" color=blue size=3>Bioinformatics</font>, 2023 CCF B, [Paper](https://academic.oup.com/bioinformatics/article/39/8/btad478/7239861).
 
 * **TemDep: Temporal Dependency Priority for Multivariate Time Series Prediction.** 
 <br> Shu Liu, Jiaheng Wang, **Jiamin Chen<sup>\*</sup>**, Jianliang Gao and Yuhui Zhong．
