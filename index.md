@@ -32,6 +32,8 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
    
 ### **Publications**
 ***
+* **Adaptive Graph Contrastive Learning with Joint Optimization of Data Augmentation and Graph Encoder.** 
+<br> Zhenpeng Wu, **Jiamin Chen<sup>\*</sup>**, Raeed Al-Sabri, Babatounde Moctard Oloulade, and Jianliang Gao<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, Accepted.
 
 * **Graph Neural Architecture Prediction.** 
 <br> Jianliang Gao, Babatounde Moctard Oloulade, Raeed Al-Sabri, **Jiamin Chen<sup>\*</sup>**, Tengfei Lyu and Zhenpeng Wu.
