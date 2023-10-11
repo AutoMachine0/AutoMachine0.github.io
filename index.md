@@ -48,16 +48,16 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 <br> <font face="微软雅黑" color=blue size=3>ACM International Conference on Information and Knowledge Management</font>, 2023 CCF B, (\* corresponding author) Accepted.
 
 * **DTSRN: Dynamic Temporal Spatial Relation Network for Stock Ranking Recommendation.** 
-<br> Yuhui Zhong<sup>#</sup>, **Jiamin Chen<sup>\#</sup>**, Jianliang Gao and Jiaheng Wang, Quan Wan．
-<br> <font face="微软雅黑" color=blue size=3>International Conference on Neural Information Processing</font>, 2023 CCF C, (# equal contribution) Accepted.
+<br> Yuhui Zhong, **Jiamin Chen**, Jianliang Gao and Jiaheng Wang, Quan Wan．
+<br> <font face="微软雅黑" color=blue size=3>International Conference on Neural Information Processing</font>, 2023 CCF C Accepted.
 
 * **Decoupled Graph Neural Architecture Search with Variable Propagation Operation and Appropriate Depth.** 
 <br> Jianliang Gao, Changlong He, **Jiamin Chen<sup>\*</sup>**, Qiutong Li and Yili Wang．
 <br> <font face="微软雅黑" color=blue size=3>International Conference on Scientific and Statistical Database Management</font>, 2023 CCF C, (\* corresponding author) [Paper](https://dl.acm.org/doi/10.1145/3603719.3603729), [Code](https://github.com/DGNAS-PD/DGNAS-PD).
 
 * **MSLS: Meta-graph Search with Learnable Supernet for Heterogeneous Graph Neural Networks.** 
-<br> Yili Wang<sup>#</sup>, **Jiamin Chen<sup>#</sup>**, Qiutong Li, Changlong He and Jianliang Gao．
-<br> <font face="微软雅黑" color=blue size=3>International Conference on Scientific and Statistical Database Management</font>, 2023 CCF C, (# equal contribution) [Paper](https://dl.acm.org/doi/10.1145/3603719.3603727).
+<br> Yili Wang, **Jiamin Chen**, Qiutong Li, Changlong He and Jianliang Gao．
+<br> <font face="微软雅黑" color=blue size=3>International Conference on Scientific and Statistical Database Management</font>, 2023 CCF C, [Paper](https://dl.acm.org/doi/10.1145/3603719.3603727).
 
 * **GM2NAS: Multitask Multiview Graph Neural Architecture Search.** 
 <br> Jianliang Gao, Raeed Al-Sabri, Babatounde Moctard Oloulade, **Jiamin Chen<sup>\*</sup>**, Tengfei Lyu and Zhenpeng Wu
