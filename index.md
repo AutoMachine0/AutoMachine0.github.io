@@ -32,20 +32,23 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
    
 ### **Publications**
 ***
+* **AutoTGRL: An Automatic Text-graph Representation Learning Framework.** 
+<br> Raeed Al-Sabri, Jianliang Gao, **Jiamin Chen**, Babatounde Moctard Oloulade and Tengfei Lyu<br> <font face="微软雅黑" color=blue size=3>Neural Computing and Application</font>, 2023 JCR Q2 Accepted.
+ 
 * **Adaptive Graph Contrastive Learning with Joint Optimization of Data Augmentation and Graph Encoder.** 
-<br> Zhenpeng Wu, **Jiamin Chen**, Raeed Al-Sabri, Babatounde Moctard Oloulade, and Jianliang Gao<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, Accepted.
+<br> Zhenpeng Wu, **Jiamin Chen**, Raeed Al-Sabri, Babatounde Moctard Oloulade, and Jianliang Gao<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, [Paper](https://link.springer.com/article/10.1007/s10115-023-01979-3), [Code](https://github.com/Zhen-Peng-Wu/AdaAE).
 
 * **Graph Neural Architecture Prediction.** 
 <br> Jianliang Gao, Babatounde Moctard Oloulade, Raeed Al-Sabri, **Jiamin Chen<sup>\*</sup>**, Tengfei Lyu and Zhenpeng Wu.
-<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, (\* corresponding author) Accepted.
+<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, [Paper](https://link.springer.com/article/10.1007/s10115-023-01968-6), [Code](https://github.com/BeObm/GraphNAP).
 
 * **Cancer Drug Response Prediction With Surrogate Modeling-Based Graph Neural Architecture Search.** 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Raeed Al-Sabri and Zhenpeng Wu.
-<br> <font face="微软雅黑" color=blue size=3>Bioinformatics</font>, 2023 CCF B, [Paper](https://academic.oup.com/bioinformatics/article/39/8/btad478/7239861).
+<br> <font face="微软雅黑" color=blue size=3>Bioinformatics</font>, 2023 CCF B, [Paper](https://academic.oup.com/bioinformatics/article/39/8/btad478/7239861), [Code](https://github.com/BeObm/AutoCDRP).
 
 * **TemDep: Temporal Dependency Priority for Multivariate Time Series Prediction.** 
 <br> Shu Liu, Jiaheng Wang, **Jiamin Chen<sup>\*</sup>**, Jianliang Gao and Yuhui Zhong．
-<br> <font face="微软雅黑" color=blue size=3>ACM International Conference on Information and Knowledge Management</font>, 2023 CCF B, (\* corresponding author) Accepted.
+<br> <font face="微软雅黑" color=blue size=3>ACM International Conference on Information and Knowledge Management</font>, 2023 CCF B, (\* corresponding author) [Paper](https://dl.acm.org/doi/10.1145/3583780.3615164).
 
 * **DTSRN: Dynamic Temporal Spatial Relation Network for Stock Ranking Recommendation.** 
 <br> Yuhui Zhong, **Jiamin Chen**, Jianliang Gao and Jiaheng Wang, Quan Wan．
