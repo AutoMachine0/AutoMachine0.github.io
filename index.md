@@ -147,7 +147,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 * National Scholarship for Doctoral Students 2022
 * Enterprise Scholarship for Doctoral Students (CSU) 2022
 * First-class Academic Scholarship for Doctoral Students (CSU) 2021 2022 2023
-* Excellent Doctoral Students (CSU) 2021 2022
+* Excellent Doctoral Students (CSU) 2021 2022 2023
 * ACM SIGIR Student Travel Grants 2021
 * First-class Scholarship for Excellent Postgraduate Students (NCU) 2016
 * Excellent Student Cadres for Postgraduate Students (NCU) 2015
