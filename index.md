@@ -40,7 +40,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 
 * **Graph Neural Architecture Prediction.** 
 <br> Jianliang Gao, Babatounde Moctard Oloulade, Raeed Al-Sabri, **Jiamin Chen<sup>\*</sup>**, Tengfei Lyu and Zhenpeng Wu.
-<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, [Paper](https://link.springer.com/article/10.1007/s10115-023-01968-6), [Code](https://github.com/BeObm/GraphNAP).
+<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, (\* corresponding author) [Paper](https://link.springer.com/article/10.1007/s10115-023-01968-6), [Code](https://github.com/BeObm/GraphNAP).
 
 * **Cancer Drug Response Prediction With Surrogate Modeling-Based Graph Neural Architecture Search.** 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Raeed Al-Sabri and Zhenpeng Wu.
@@ -51,8 +51,8 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 <br> <font face="微软雅黑" color=blue size=3>ACM International Conference on Information and Knowledge Management</font>, 2023 CCF B, (\* corresponding author) [Paper](https://dl.acm.org/doi/10.1145/3583780.3615164), [Code](https://github.com/zivgogogo/TemDep).
 
 * **DTSRN: Dynamic Temporal Spatial Relation Network for Stock Ranking Recommendation.** 
-<br> Yuhui Zhong, **Jiamin Chen**, Jianliang Gao and Jiaheng Wang, Quan Wan．
-<br> <font face="微软雅黑" color=blue size=3>International Conference on Neural Information Processing</font>, 2023 CCF C, Accepted.
+<br> Yuhui Zhong, **Jiamin Chen<sup>#</sup>**, Jianliang Gao and Jiaheng Wang, Quan Wan．
+<br> <font face="微软雅黑" color=blue size=3>International Conference on Neural Information Processing</font>, 2023 CCF C, (# equal contribution) Accepted.
 
 * **Decoupled Graph Neural Architecture Search with Variable Propagation Operation and Appropriate Depth.** 
 <br> Jianliang Gao, Changlong He, **Jiamin Chen<sup>\*</sup>**, Qiutong Li and Yili Wang．
