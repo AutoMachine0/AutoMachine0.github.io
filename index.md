@@ -74,7 +74,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Raeed Al-Sabri, Tengfei Lyu 
 <br> <font face="微软雅黑" color=blue size=3>Machine Learning</font>, 2022 CCF B, [Paper](https://link.springer.com/article/10.1007/s10994-022-06287-5).
 
-* **Spatio-Temporal Based Architecture Topology Search For Multivariate Time Series Prediction.** 
+* **Spatio-Temporal based Architecture Topology Search for Multivariate Time Series Prediction.** 
 <br> Xinqi Lyu, Yibo Chen, **Jiamin Chen**, Xiangyue Liu, Jianliang Gao 
 <br> <font face="微软雅黑" color=blue size=3>IEEE International Conference on Big Data</font>, 2022 CCF C, [Paper](https://ieeexplore.ieee.org/document/10020729).
 
@@ -88,7 +88,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 <br> **Jiamin Chen**, Jianliang Gao, Tengfei Lyu, Babatounde MOCTARD Oloulade, Xiaohua Hu 
 <br> <font face="微软雅黑" color=blue size=3>IEEE/ACM Transactions on Computational Biology and Bioinformatics</font>, 2022 CCF B, [Paper](https://ieeexplore.ieee.org/document/9864145), [Code](https://github.com/AutoMachine0/Auto-MSR).
 
-* **Memory Augmented Graph Learning Networks for Multivariate time series Forecasting.** 
+* **Memory Augmented Graph Learning Networks for Multivariate Time Series Forecasting.** 
 <br> Xiangyue Liu, Xinqi Lyu, Xiangchi Zhang, Jianliang Gao, **Jiamin Chen** 
 <br> <font face="微软雅黑" color=blue size=3>ACM International Conference on Information and Knowledge Management</font>, 2022 CCF B, [Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557638).
 
@@ -96,7 +96,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 <br> **Jiamin Chen**, Jianliang Gao, Yibo Chen, Babatounde MOCTARD Oloulade, Tengfei Lyu, Zhao Li 
 <br><font face="微软雅黑" color=blue size=3>IEEE Transactions on Parallel and Distributed Systems</font>, 2022 CCF A, [Paper](https://ieeexplore.ieee.org/document/9714826), [Code](https://github.com/AutoMachine0/Auto-GNAS).
 
-* **Identification of new M 31 star cluster candidates from PAndAS images using convolutional neural networks.** 
+* **Identification of New M 31 Star Cluster Candidates from PAndAS Images using Convolutional Neural Networks.** 
 <br> Shoucheng Wang, Bingqiu Chen, Jun Ma, Qian Long, Haibo Yuan, Dezi Liu, Zhimin Zhou, Wei Liu, **Jiamin Chen**, Zizhao He 
 <br><font face="微软雅黑" color=blue size=3>Astronomy & Astrophysics</font>, 2022 JCR Q1, [Paper](https://www.aanda.org/articles/aa/abs/2022/02/aa42169-21/aa42169-21.html), [Code](https://github.com/wscdaxia/coreCode_cnn).
 
@@ -104,7 +104,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 <br> **Jiamin Chen**, Jianliang Gao, Tengfei Lyu, Babatounde MOCTARD Oloulade, Xiaohua Hu 
 <br> <font face="微软雅黑" color=blue size=3>IEEE International Conference on Bioinformatics and Biomedicine</font>, 2021 CCF B, [Paper](https://ieeexplore.ieee.org/abstract/document/9669309), [Code](https://github.com/AutoMachine0/Auto-MSR).
 
-* **Graph neural architecture search: A survey.** 
+* **Graph Neural Architecture Search: A Survey.** 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Tengfei Lyu, Raeed Al-Sabri 
 <br> <font face="微软雅黑" color=blue size=3>Tsinghua Science and Technology</font>, 2021 JCR Q2, [Paper](https://ieeexplore.ieee.org/document/9645440/authors#authors).
 
