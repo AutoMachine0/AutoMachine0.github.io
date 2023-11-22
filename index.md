@@ -137,6 +137,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 * IEEE Transactions on Knowledge and Data Engineering 2023 
 * Reliability Engineering & System Safety 2023 
 * ACM Computing Surveys 2023 
+* Artificial Intelligence Review 2023
 * Briefings in Bioinformatics 2023 
 
 #### **Teaching Assistant**
