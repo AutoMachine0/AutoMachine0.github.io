@@ -52,7 +52,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 
 * **DTSRN: Dynamic Temporal Spatial Relation Network for Stock Ranking Recommendation.** 
 <br> Yuhui Zhong, **Jiamin Chen<sup>#</sup>**, Jianliang Gao and Jiaheng Wang, Quan Wan．
-<br> <font face="微软雅黑" color=blue size=3>International Conference on Neural Information Processing</font>, 2023 CCF C, (# equal contribution) Accepted.
+<br> <font face="微软雅黑" color=blue size=3>International Conference on Neural Information Processing</font>, 2023 CCF C, (# equal contribution) [Paper](https://trebuchet.public.springernature.app/get_content/4afd58a2-0406-4377-9812-49191c8c6900?sap-outbound-id=F9BE8D127CA84D61E5344B21D5A268A08DF668DA&utm_source=standard&utm_medium=email&utm_campaign=000_LAN36_0000019083_Book%20author%20congrats%20NEW&utm_content=EN_34155_20231201&mkt-key=A1C59CB911661EDEA3C59EFF82911B74).
 
 * **Decoupled Graph Neural Architecture Search with Variable Propagation Operation and Appropriate Depth.** 
 <br> Jianliang Gao, Changlong He, **Jiamin Chen<sup>\*</sup>**, Qiutong Li and Yili Wang．
@@ -145,6 +145,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 
 ### **Selected Honors and Awards**
 ***
+* Principal Scholarship (Only 30 doctoral students recieced in CSU) 2023
 * National Scholarship for Doctoral Students 2022
 * Enterprise Scholarship for Doctoral Students (CSU) 2022
 * First-class Academic Scholarship for Doctoral Students (CSU) 2021 2022 2023
