@@ -43,11 +43,11 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 
 * **Graph Neural Architecture Prediction.** 
 <br> Jianliang Gao, Babatounde Moctard Oloulade, Raeed Al-Sabri, **Jiamin Chen<sup>\*</sup>**, Tengfei Lyu and Zhenpeng Wu.
-<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, (\* corresponding author) [Paper](https://link.springer.com/article/10.1007/s10115-023-01968-6), [Code](https://github.com/BeObm/GraphNAP).
+<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, 中科院 4 区, (\* corresponding author) [Paper](https://link.springer.com/article/10.1007/s10115-023-01968-6), [Code](https://github.com/BeObm/GraphNAP).
 
 * **Cancer Drug Response Prediction With Surrogate Modeling-Based Graph Neural Architecture Search.** 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Raeed Al-Sabri and Zhenpeng Wu.
-<br> <font face="微软雅黑" color=blue size=3>Bioinformatics</font>, 2023 CCF B, [Paper](https://academic.oup.com/bioinformatics/article/39/8/btad478/7239861), [Code](https://github.com/BeObm/AutoCDRP).
+<br> <font face="微软雅黑" color=blue size=3>Bioinformatics</font>, 2023 CCF B, 中科院 2 区, [Paper](https://academic.oup.com/bioinformatics/article/39/8/btad478/7239861), [Code](https://github.com/BeObm/AutoCDRP).
 
 * **TemDep: Temporal Dependency Priority for Multivariate Time Series Prediction.** 
 <br> Shu Liu, Jiaheng Wang, **Jiamin Chen<sup>\*</sup>**, Jianliang Gao and Yuhui Zhong．
@@ -67,15 +67,15 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 
 * **GM2NAS: Multitask Multiview Graph Neural Architecture Search.** 
 <br> Jianliang Gao, Raeed Al-Sabri, Babatounde Moctard Oloulade, **Jiamin Chen<sup>\*</sup>**, Tengfei Lyu and Zhenpeng Wu
-<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, (\* corresponding author) [Paper](https://link.springer.com/article/10.1007/s10115-023-01886-7).
+<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, 中科院 4 区, (\* corresponding author) [Paper](https://link.springer.com/article/10.1007/s10115-023-01886-7).
 
 * **CommGNAS: Unsupervised Graph Neural Architecture Search for Community Detection.** 
 <br>**Jiamin Chen<sup>#</sup>**, Jianliang Gao<sup>#</sup>, Babatounde Moctard Oloulade, Raeed Al-Sabri, Tengfei Lyu, Ji Zhang and Zhao Li.
-<br> <font face="微软雅黑" color=blue size=3>IEEE Transactions on Emerging Topics in Computing</font>, 2023 JCR Q1, (# equal contribution) [Paper](https://ieeexplore.ieee.org/document/10112632), [Code](https://github.com/AutoMachine0/CommGNAS).
+<br> <font face="微软雅黑" color=blue size=3>IEEE Transactions on Emerging Topics in Computing</font>, 2023 中科院 2 区, (# equal contribution) [Paper](https://ieeexplore.ieee.org/document/10112632), [Code](https://github.com/AutoMachine0/CommGNAS).
 
 * **Neural Predictor-Based Automated Graph Classifier Framework.** 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Raeed Al-Sabri, Tengfei Lyu 
-<br> <font face="微软雅黑" color=blue size=3>Machine Learning</font>, 2022 CCF B, [Paper](https://link.springer.com/article/10.1007/s10994-022-06287-5).
+<br> <font face="微软雅黑" color=blue size=3>Machine Learning</font>, 2022 CCF B, 中科院 3 区, [Paper](https://link.springer.com/article/10.1007/s10994-022-06287-5).
 
 * **Spatio-Temporal based Architecture Topology Search for Multivariate Time Series Prediction.** 
 <br> Xinqi Lyu, Yibo Chen, **Jiamin Chen**, Xiangyue Liu, Jianliang Gao 
@@ -89,7 +89,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 
 * **AutoMSR: Auto Molecular Structure Representation Learning for Multi-label Metabolic Pathway Prediction.** 
 <br> **Jiamin Chen**, Jianliang Gao, Tengfei Lyu, Babatounde MOCTARD Oloulade, Xiaohua Hu 
-<br> <font face="微软雅黑" color=blue size=3>IEEE/ACM Transactions on Computational Biology and Bioinformatics</font>, 2022 CCF B, [Paper](https://ieeexplore.ieee.org/document/9864145), [Code](https://github.com/AutoMachine0/Auto-MSR).
+<br> <font face="微软雅黑" color=blue size=3>IEEE/ACM Transactions on Computational Biology and Bioinformatics</font>, 2022 CCF B, 中科院 3 区, [Paper](https://ieeexplore.ieee.org/document/9864145), [Code](https://github.com/AutoMachine0/Auto-MSR).
 
 * **Memory Augmented Graph Learning Networks for Multivariate Time Series Forecasting.** 
 <br> Xiangyue Liu, Xinqi Lyu, Xiangchi Zhang, Jianliang Gao, **Jiamin Chen** 
@@ -97,11 +97,11 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 
 * **Auto-GNAS: A Parallel Graph Neural Architecture Search Framework.** 
 <br> **Jiamin Chen**, Jianliang Gao, Yibo Chen, Babatounde MOCTARD Oloulade, Tengfei Lyu, Zhao Li 
-<br><font face="微软雅黑" color=blue size=3>IEEE Transactions on Parallel and Distributed Systems</font>, 2022 CCF A, [Paper](https://ieeexplore.ieee.org/document/9714826), [Code](https://github.com/AutoMachine0/Auto-GNAS).
+<br><font face="微软雅黑" color=blue size=3>IEEE Transactions on Parallel and Distributed Systems</font>, 2022 CCF A, 中科院 1 区 Top, [Paper](https://ieeexplore.ieee.org/document/9714826), [Code](https://github.com/AutoMachine0/Auto-GNAS).
 
 * **Identification of New M 31 Star Cluster Candidates from PAndAS Images using Convolutional Neural Networks.** 
 <br> Shoucheng Wang, Bingqiu Chen, Jun Ma, Qian Long, Haibo Yuan, Dezi Liu, Zhimin Zhou, Wei Liu, **Jiamin Chen**, Zizhao He 
-<br><font face="微软雅黑" color=blue size=3>Astronomy & Astrophysics</font>, 2022 JCR Q1, [Paper](https://www.aanda.org/articles/aa/abs/2022/02/aa42169-21/aa42169-21.html), [Code](https://github.com/wscdaxia/coreCode_cnn).
+<br><font face="微软雅黑" color=blue size=3>Astronomy & Astrophysics</font>, 2022 中科院 2 区, [Paper](https://www.aanda.org/articles/aa/abs/2022/02/aa42169-21/aa42169-21.html), [Code](https://github.com/wscdaxia/coreCode_cnn).
 
 * **Multi-label Metabolic Pathway Prediction with Auto Molecular Structure Representation Learning.** 
 <br> **Jiamin Chen**, Jianliang Gao, Tengfei Lyu, Babatounde MOCTARD Oloulade, Xiaohua Hu 
@@ -109,7 +109,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 
 * **Graph Neural Architecture Search: A Survey.** 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Tengfei Lyu, Raeed Al-Sabri 
-<br> <font face="微软雅黑" color=blue size=3>Tsinghua Science and Technology</font>, 2021 JCR Q2, [Paper](https://ieeexplore.ieee.org/document/9645440/authors#authors).
+<br> <font face="微软雅黑" color=blue size=3>Tsinghua Science and Technology</font>, 2021 中科院 1 区, [Paper](https://ieeexplore.ieee.org/document/9645440/authors#authors).
 
 * **GraphPAS: Parallel Architecture Search for Graph Neural Networks.** 
 <br> **Jiamin Chen**, Jianliang Gao, Yibo Chen, Babatounde MOCTARD Oloulade, Tengfei Lyu, Zhao Li 
@@ -117,11 +117,11 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 
 * **Impact of Reentry Speed on the Transmission of Obliquely Incident THz Waves in Realistic Plasma Sheaths.** 
 <br> Kai Yuan, **Jiamin Chen**, Linfang Shen, Xiaohua Deng, Ming Yao, Lujun Hong 
-<br><font face="微软雅黑" color=blue size=3>IEEE Transactions on Plasma Science</font>, 2018 JCR Q4, [Paper](https://ieeexplore.ieee.org/document/8262626).
+<br><font face="微软雅黑" color=blue size=3>IEEE Transactions on Plasma Science</font>, 2018 中科院 4 区, [Paper](https://ieeexplore.ieee.org/document/8262626).
 
 * **Studies of Terahertz Wave Propagation in Realistic Reentry Plasma Sheath.** 
 <br> **Jiamin Chen**, Kai Yuan, Linfang Shen, Xiaohua Deng, Lujun Hong, Ming Yao 
-<br><font face="微软雅黑" color=blue size=3>Progress in Electromagnetics Research</font>, 2016 JCR Q1, [Paper](https://www.jpier.org/pier/pier.php?paper=16061202).
+<br><font face="微软雅黑" color=blue size=3>Progress in Electromagnetics Research</font>, 2016 中科院 1 区, [Paper](https://www.jpier.org/pier/pier.php?paper=16061202).
 
 ### **Patents**
 ***
