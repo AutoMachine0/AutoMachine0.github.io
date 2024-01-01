@@ -33,10 +33,10 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 ### **Publications**
 ***
 * **AutoTGRL: An Automatic Text-graph Representation Learning Framework.** 
-<br> Raeed Al-Sabri, Jianliang Gao, **Jiamin Chen**, Babatounde Moctard Oloulade and Tengfei Lyu<br> <font face="微软雅黑" color=blue size=3>Neural Computing and Application</font>, 2023 CCF C, Accepted.
+<br> Raeed Al-Sabri, Jianliang Gao, **Jiamin Chen**, Babatounde Moctard Oloulade and Tengfei Lyu<br> <font face="微软雅黑" color=blue size=3>Neural Computing and Application</font>, 2023 CCF C, 中科院 3 区 [Paper](https://link.springer.com/article/10.1007/s00521-023-09226-0).
  
 * **Adaptive Graph Contrastive Learning with Joint Optimization of Data Augmentation and Graph Encoder.** 
-<br> Zhenpeng Wu, **Jiamin Chen**, Raeed Al-Sabri, Babatounde Moctard Oloulade, and Jianliang Gao<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, [Paper](https://link.springer.com/article/10.1007/s10115-023-01979-3), [Code](https://github.com/Zhen-Peng-Wu/AdaAE).
+<br> Zhenpeng Wu, **Jiamin Chen**, Raeed Al-Sabri, Babatounde Moctard Oloulade, and Jianliang Gao<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font>, 2023 CCF B, 中科院 4 区 [Paper](https://link.springer.com/article/10.1007/s10115-023-01979-3), [Code](https://github.com/Zhen-Peng-Wu/AdaAE).
 
 * **Graph Neural Architecture Prediction.** 
 <br> Jianliang Gao, Babatounde Moctard Oloulade, Raeed Al-Sabri, **Jiamin Chen<sup>\*</sup>**, Tengfei Lyu and Zhenpeng Wu.
