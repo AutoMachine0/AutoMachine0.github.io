@@ -33,7 +33,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 ### **Publications**
 ***
 * **AutoDDI: Drug–drug Interaction Prediction with Automated Graph Neural Network.** 
-<br> Jianliang Gao, Zhenpeng Wu, Raeed Al-Sabri, Babatounde Moctard Oloulade, and **Jiamin Chen<sup>\*</sup>**<br> <font face="微软雅黑" color=blue size=3>IEEE Journal OF Biomedical and Health Informatics</font>, 2024 CCF C, 中科院 1 区 Top, Accepted, (\* corresponding author).
+<br> Jianliang Gao, Zhenpeng Wu, Raeed Al-Sabri, Babatounde Moctard Oloulade, and **Jiamin Chen<sup>\*</sup>**<br> <font face="微软雅黑" color=blue size=3>IEEE Journal OF Biomedical and Health Informatics</font>, 2024 CCF C, 中科院 1 区 Top, (\* corresponding author), Accepted.
 
 * **AutoTGRL: An Automatic Text-graph Representation Learning Framework.** 
 <br> Raeed Al-Sabri, Jianliang Gao, **Jiamin Chen**, Babatounde Moctard Oloulade and Tengfei Lyu<br> <font face="微软雅黑" color=blue size=3>Neural Computing and Application</font>, 2023 CCF C, 中科院 3 区, [Paper](https://link.springer.com/article/10.1007/s00521-023-09226-0).
