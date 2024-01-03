@@ -31,10 +31,10 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
    
    
 ### **Publications**
-\* Correspond Author \quad # Equal Contribution
+\* Correspond Author $\quad$ # Equal Contribution
 
 ***
-### Journal Paper
+#### Journal Paper
 
 * **Auto-GNAS: A Parallel Graph Neural Architecture Search Framework.** 
 <br> **Jiamin Chen**, Jianliang Gao, Yibo Chen, Babatounde MOCTARD Oloulade, Tengfei Lyu, Zhao Li. 
@@ -92,7 +92,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 <br> Shoucheng Wang, Bingqiu Chen, Jun Ma, Qian Long, Haibo Yuan, Dezi Liu, Zhimin Zhou, Wei Liu, **Jiamin Chen**, Zizhao He. 
 <br><font face="微软雅黑" color=blue size=3>Astronomy & Astrophysics</font> 2022 中科院 2 区 [Paper](https://www.aanda.org/articles/aa/abs/2022/02/aa42169-21/aa42169-21.html) [Code](https://github.com/wscdaxia/coreCode_cnn).
 
-### Conference Paper
+#### Conference Paper
 
 * **GraphPAS: Parallel Architecture Search for Graph Neural Networks.** 
 <br> **Jiamin Chen**, Jianliang Gao, Yibo Chen, Babatounde MOCTARD Oloulade, Tengfei Lyu, Zhao Li. 
