@@ -31,7 +31,8 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
    
    
 ### **Publications**
-\* Correspond Author | # Equal Contribution
+\* Correspond Author \quad # Equal Contribution
+
 ***
 ### Journal Paper
 
