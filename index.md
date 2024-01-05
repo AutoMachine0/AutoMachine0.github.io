@@ -41,7 +41,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 <br><font face="微软雅黑" color=blue size=3>IEEE Transactions on Parallel and Distributed Systems</font> 2022 CCF A 中科院 1 区 Top [Paper](https://ieeexplore.ieee.org/document/9714826) [Code](https://github.com/AutoMachine0/Auto-GNAS).
 
 * **AutoDDI: Drug–drug Interaction Prediction with Automated Graph Neural Network.** 
-<br> Jianliang Gao, Zhenpeng Wu, Raeed Al-Sabri, Babatounde Moctard Oloulade, and **Jiamin Chen<sup>\*</sup>**.<br> <font face="微软雅黑" color=blue size=3>IEEE Journal of Biomedical and Health Informatics</font> 2024 CCF C 中科院 1 区 Top Accepted.
+<br> Jianliang Gao, Zhenpeng Wu, Raeed Al-Sabri, Babatounde Moctard Oloulade, and **Jiamin Chen<sup>\*</sup>**.<br> <font face="微软雅黑" color=blue size=3>IEEE Journal of Biomedical and Health Informatics</font> 2024 CCF C 中科院 1 区 Top [Paper](https://ieeexplore.ieee.org/document/10380606) [Code](https://github.com/csubigdata-Organization/AutoDDI).
 
 * **CommGNAS: Unsupervised Graph Neural Architecture Search for Community Detection.** 
 <br>**Jiamin Chen<sup>#</sup>**, Jianliang Gao<sup>#</sup>, Babatounde Moctard Oloulade, Raeed Al-Sabri, Tengfei Lyu, Ji Zhang and Zhao Li.
