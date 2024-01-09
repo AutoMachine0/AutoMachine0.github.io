@@ -1,6 +1,6 @@
 ## <font face="微软雅黑" color=white size=2>Jiamin Chen (陈家民)</font>
 
-<div align=center> <img src="pic/photo.jpg" height="25%" width="25%"/>  </div>
+<div align=center> <img src="pic/photo.png" height="25%" width="25%"/>  </div>
 
 
 ### **About me**
