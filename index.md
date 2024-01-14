@@ -76,7 +76,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 <br> <font face="微软雅黑" color=blue size=3>Machine Learning</font> 2022 CCF B 中科院 3 区 [Paper](https://link.springer.com/article/10.1007/s10994-022-06287-5).
 
 * **Multi-view Graph Neural Architecture Search for Biomedical Entity and Relation Extraction.** <br> Raeed AI-Sabri, Jianliang Gao, **Jiamin Chen**, Babatounde MOCTARD Oloulade, Tengfei Lyu. 
-<br><font face="微软雅黑" color=blue size=3>IEEE/ACM Transactions on Computational Biology and Bioinformatics</font> 2022 CCF B [Paper](https://ieeexplore.ieee.org/document/9881878) [Code](https://github.com/alsabriraeed/MVGNAS).
+<br><font face="微软雅黑" color=blue size=3>IEEE/ACM Transactions on Computational Biology and Bioinformatics</font> 2022 CCF B 中科院 3 区 [Paper](https://ieeexplore.ieee.org/document/9881878) [Code](https://github.com/alsabriraeed/MVGNAS).
 
 * **Adaptive Graph Contrastive Learning with Joint Optimization of Data Augmentation and Graph Encoder.** 
 <br> Zhenpeng Wu, **Jiamin Chen**, Raeed Al-Sabri, Babatounde Moctard Oloulade, and Jianliang Gao.<br> <font face="微软雅黑" color=blue size=3>Knowledge and Information Systems</font> 2023 CCF B 中科院 4 区 [Paper](https://link.springer.com/article/10.1007/s10115-023-01979-3) [Code](https://github.com/Zhen-Peng-Wu/AdaAE).
