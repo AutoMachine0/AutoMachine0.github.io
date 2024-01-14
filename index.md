@@ -114,7 +114,7 @@ I am currently a Ph.D. student at Central South University (CSU). I received my 
 <br> <font face="微软雅黑" color=blue size=3>International Conference on Scientific and Statistical Database Management</font> 2023 CCF C [Paper](https://dl.acm.org/doi/10.1145/3603719.3603729) [Code](https://github.com/DGNAS-PD/DGNAS-PD).
 
 * **DTSRN: Dynamic Temporal Spatial Relation Network for Stock Ranking Recommendation.** 
-<br> Yuhui Zhong, **Jiamin Chen<sup>#</sup>**, Jianliang Gao and Jiaheng Wang, Quan Wan．
+<br> Yuhui Zhong<sup>#</sup>, **Jiamin Chen<sup>#</sup>**, Jianliang Gao and Jiaheng Wang, Quan Wan．
 <br> <font face="微软雅黑" color=blue size=3>International Conference on Neural Information Processing</font> 2023 CCF C [Paper](https://trebuchet.public.springernature.app/get_content/4afd58a2-0406-4377-9812-49191c8c6900?sap-outbound-id=F9BE8D127CA84D61E5344B21D5A268A08DF668DA&utm_source=standard&utm_medium=email&utm_campaign=000_LAN36_0000019083_Book%20author%20congrats%20NEW&utm_content=EN_34155_20231201&mkt-key=A1C59CB911661EDEA3C59EFF82911B74).
 
 * **MSLS: Meta-graph Search with Learnable Supernet for Heterogeneous Graph Neural Networks.** 
