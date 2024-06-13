@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-<p align="justify">I received my Ph.D. in Computer Science and Technology from Central South University (CSU) in June 2024. 
+<p align="justify">I am Jiamin Chen (陈家民). I received my Ph.D. in Computer Science and Technology from Central South University (CSU) in June 2024. 
 I received my M.S. and B.S. degree from Nanchang University (NCU). 
 During my doctoral studies, my research interests included graph neural architecture search (GNAS) acceleration methods, GNAS applications, and time series analysis.
 I have published several papers in the following conferences and journals (SIGIR, CIKM, BIBM, TPDS, IS, TCBB, etc.).
