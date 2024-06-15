@@ -13,7 +13,7 @@ main:
   - title: Decoupled Differentiable Graph Neural Architecture Search
     authors: <strong>Jiamin Chen</strong>, Jianliang Gao, Zhenpeng Wu, Raeed Al-Sabri, Babatounde Moctard Oloulade.
     conference_short: IS
-    conference: Information Sciences <strong>(IS)</strong>, 2024.
+    conference: Information Sciences <strong>(IS)</strong>, 2024, CCF B 中科院1区 top.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0020025524006133
     code: https://github.com/AutoMachine0/D2GNAS
     image: ./assets/img/D2GNAS.png
@@ -21,7 +21,7 @@ main:
   - title: CommGNAS Unsupervised Graph Neural Architecture Search for Community Detection
     authors: <strong>Jiamin Chen<sup>#</sup>(Equal contribution)</strong>, Jianliang Gao<sup>#</sup>, Babatounde Moctard Oloulade, Raeed Al-Sabri, Tengfei Lyu, Ji Zhang and Zhao Li.
     conference_short: TETC
-    conference: IEEE Transactions on Emerging Topics in Computing <strong>(TETC)</strong>, 2023.
+    conference: IEEE Transactions on Emerging Topics in Computing <strong>(TETC)</strong>, 2023, 中科院2区.
     pdf: https://ieeexplore.ieee.org/document/10112632
     code: https://github.com/AutoMachine0/CommGNAS
     image: ./assets/img/CommGNAS.png
@@ -29,7 +29,7 @@ main:
   - title: Auto-GNAS A Parallel Graph Neural Architecture Search Framework
     authors: <strong>Jiamin Chen</strong>, Jianliang Gao, Yibo Chen, Babatounde Moctard Oloulade, Tengfei Lyu, and Zhao Li.
     conference_short: TPDS
-    conference: Transactions on Parallel and Distributed Systems <strong>(TPDS)</strong>, 2022.
+    conference: Transactions on Parallel and Distributed Systems <strong>(TPDS)</strong>, 2022, CCF A 中科院2区 top.
     pdf: https://ieeexplore.ieee.org/document/9714826
     code: https://github.com/AutoMachine0/Auto-GNAS
     image: ./assets/img/AutoGNAS.png
@@ -37,7 +37,7 @@ main:
   - title: AutoMSR Auto Molecular Structure Representation Learning for Multi-label Metabolic Pathway Prediction
     authors: <strong>Jiamin Chen</strong>,Jianliang Gao, Tengfei Lyu, Babatounde MOCTARD Oloulade, Xiaohua Hu.
     conference_short: TCBB
-    conference: IEEE/ACM Transactions on Computational Biology and Bioinformatics <strong>(TCBB)</strong>, 2022.
+    conference: IEEE/ACM Transactions on Computational Biology and Bioinformatics <strong>(TCBB)</strong>, 2022, CCF B 中科院3区.
     pdf: https://ieeexplore.ieee.org/document/9864145
     code: https://github.com/AutoMachine0/Auto-MSR
     image: ./assets/img/AutoMSR.png
@@ -45,7 +45,7 @@ main:
   - title: GraphPAS Parallel Architecture Search for Graph Neural Networks
     authors: <strong>Jiamin Chen</strong>, Jianliang Gao, Yibo Chen, Babatounde Moctard Oloulade, Tengfei Lyu, and Zhao Li.
     conference_short: SIGIR
-    conference: The International ACM SIGIR Conference on Research and Development in Information Retrieval <strong>(SIGIR)</strong>, 2021.
+    conference: The International ACM SIGIR Conference on Research and Development in Information Retrieval <strong>(SIGIR)</strong>, 2021, CCF A.
     pdf: https://dl.acm.org/doi/abs/10.1145/3404835.3463007
     code: https://gitee.com/ncucjm/GraphPAS
     image: ./assets/img/GraphPAS.png
