@@ -10,7 +10,7 @@ main:
   #  image: ./assets/img/D2GNAS.png
   #  notes: Early Accept
     
-  - title: Decoupled differentiable graph neural architecture search
+  - title: Decoupled Differentiable Graph Neural Architecture Search
     authors: <strong>Jiamin Chen</strong>, Jianliang Gao, Zhenpeng Wu, Raeed Al-Sabri, Babatounde Moctard Oloulade.
     conference_short: IS
     conference: Information Sciences <strong>(IS)</strong>, 2024.
