@@ -30,7 +30,7 @@ If you are interested in me, please feel free to contact me.</font> </p>[My Gith
 ## Experience
 - &nbsp; &nbsp;**2010.09-2014.06 Nanchang University / Bachelor Degree** <img src="./assets/img/NCU.png" alt="NCU" style="float:left; width:20px; height:20px;">
 - &nbsp; &nbsp;**2014.09-2017.06 Nanchang University / Master Degree** <img src="./assets/img/NCU.png" alt="NCU" style="float:left; width:20px; height:20px;">
-- &nbsp; &nbsp;**2016.11-2017.02 iFLYTEK Research Institute / Intern-researcher** <img src="./assets/img/NCU.png" alt="iFLYTEK" style="float:left; width:20px; height:20px;">
+- &nbsp; &nbsp;**2016.11-2017.02 iFLYTEK Research Institute / Intern-researcher** <img src="./assets/img/TEK.png" alt="TEK" style="float:left; width:20px; height:20px;">
 - &nbsp; &nbsp;**2017.06-2020.07 China Mobile Zhejiang Company / IT Engineer** <img src="./assets/img/CHINAMOBILE.png" alt="CHINAMOBILE" style="float:left; width:20px; height:20px;">
 - &nbsp; &nbsp;**2020.09-2024.06 Central South University / Doctoral Degree** <img src="./assets/img/CSU.png" alt="NCU" style="float:left; width:20px; height:20px;">
 
