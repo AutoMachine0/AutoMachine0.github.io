@@ -23,9 +23,6 @@
 
 ## All Publications
 \* Correspond Author | # Equal Contribution
-
-#### Journal Paper
-
 1. **Auto-GNAS: A Parallel Graph Neural Architecture Search Framework.** 
 <br> **Jiamin Chen**, Jianliang Gao, Yibo Chen, Babatounde MOCTARD Oloulade, Tengfei Lyu, Zhao Li. 
 <br><font face="微软雅黑" color=blue size=2>IEEE Transactions on Parallel and Distributed Systems</font> 2022 CCF A 中科院 2 区 Top. 
