@@ -4,21 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am Jiamin Chen (陈家民). I received my Ph.D. in Computer Science and Technology from Central South University (CSU) in June 2024.
+<p align="justify">I am Jiamin Chen (陈家民). I received my Ph.D. in Computer Science and Technology from Central South University (CSU) in June 2024.
 During my doctoral studies, my research interests included graph neural architecture search (GNAS) acceleration methods, GNAS applications, and time series analysis.
 I have published several papers in the following conferences and journals (SIGIR, CIKM, BIBM, TPDS, IS, TCBB, etc.).
-My **[Github](https://github.com/AutoMachine0)** and **[Google Scholar](https://scholar.google.com/citations?user=5WbxPrIAAAAJ&hl=zh-CN)**.
+My <a href="https://github.com/AutoMachine0">Github</a> and <a href="https://scholar.google.com/citations?user=5WbxPrIAAAAJ&hl=zh-CN">Google Scholar</a>.
 <font color=red>I am looking for a suitable position in academia.
-If you are interested in me, please feel free to contact me.</font> 
-
-
-<!--<p align="justify">I am Jiamin Chen (陈家民). I received my Ph.D. in Computer Science and Technology from Central South University (CSU) in June 2024. 
-I received my M.S. and B.S. degree from Nanchang University (NCU). 
-During my doctoral studies, my research interests included graph neural architecture search (GNAS) acceleration methods, GNAS applications, and time series analysis.
-I have published several papers in the following conferences and journals (SIGIR, CIKM, BIBM, TPDS, IS, TCBB, etc.).
-<font color=red>I am looking for a suitable position in academia.
-If you are interested in me, please feel free to contact me.</font> </p>[My Github](https://github.com/AutoMachine0)
-- **[My Google Scholar](https://scholar.google.com/citations?user=5WbxPrIAAAAJ&hl=zh-CN)**-->
+If you are interested in me, please feel free to contact me.</font> </p>
 
 
 ## Research Interests
