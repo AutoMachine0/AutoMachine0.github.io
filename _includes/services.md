@@ -65,7 +65,7 @@
 <br> Raeed Al-Sabri, Jianliang Gao, **Jiamin Chen**, Babatounde Moctard Oloulade and Zhenpeng
 Wu. 
 <br> <font face="微软雅黑" color=blue size=2>Neural Networks</font> 2024 CCF B 中科院 1 区.
-<br> Accepted
+<br> [paper](https://www.sciencedirect.com/science/article/pii/S0893608024003514)
 11. **Graph Neural Architecture Search: A Survey.** 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Tengfei Lyu, Raeed Al-Sabri. 
 <br> <font face="微软雅黑" color=blue size=2>Tsinghua Science and Technology</font> 2021 中科院 1 区.
