@@ -109,31 +109,34 @@ Wu.
 3. **Glycan Immunogenicity Prediction with Efficient Automatic Graph Neural Network.** <br> **Jiamin Chen**, Zhenpeng Wu, Jianliang Gao, Xiaohua Hu. 
 <br> <font face="微软雅黑" color=blue size=2>IEEE International Conference on Bioinformatics and Biomedicine</font> 2022 CCF B.
 <br>[Paper](https://ieeexplore.ieee.org/document/9995685)
-4. **TemDep: Temporal Dependency Priority for Multivariate Time Series Prediction.** 
+4. **Relation Time-aware Heterogeneous Dynamic Graph Neural Networks.** 
+<br> Yili Wang，**Jiamin Chen<sup>#</sup>**，Qiutong Li，Changlong He，Jianliang Gao.
+<br> <font face="微软雅黑" color=blue size=2>European Conference on Artificial Intelligence</font> 2024 CCF B.
+<br> Accepted
+5. **TemDep: Temporal Dependency Priority for Multivariate Time Series Prediction.** 
 <br> Shu Liu, Jiaheng Wang, **Jiamin Chen<sup>\*</sup>**, Jianliang Gao and Yuhui Zhong．
 <br> <font face="微软雅黑" color=blue size=2>ACM International Conference on Information and Knowledge Management</font> 2023 CCF B.
 <br>[Paper](https://dl.acm.org/doi/10.1145/3583780.3615164) [Code](https://github.com/zivgogogo/TemDep)
-5. **Decoupled Graph Neural Architecture Search with Variable Propagation Operation and Appropriate Depth.** 
+6. **Decoupled Graph Neural Architecture Search with Variable Propagation Operation and Appropriate Depth.** 
 <br> Jianliang Gao, Changlong He, **Jiamin Chen<sup>\*</sup>**, Qiutong Li and Yili Wang．
 <br> <font face="微软雅黑" color=blue size=2>International Conference on Scientific and Statistical Database Management</font> 2023 CCF C.
 <br>[Paper](https://dl.acm.org/doi/10.1145/3603719.3603729) [Code](https://github.com/DGNAS-PD/DGNAS-PD)
-6. **DTSRN: Dynamic Temporal Spatial Relation Network for Stock Ranking Recommendation.** 
+7. **DTSRN: Dynamic Temporal Spatial Relation Network for Stock Ranking Recommendation.** 
 <br> Yuhui Zhong<sup>#</sup>, **Jiamin Chen<sup>#</sup>**, Jianliang Gao and Jiaheng Wang, Quan Wan．
 <br> <font face="微软雅黑" color=blue size=2>International Conference on Neural Information Processing</font> 2023 CCF C.
 <br>[Paper](https://trebuchet.public.springernature.app/get_content/4afd58a2-0406-4377-9812-49191c8c6900?sap-outbound-id=F9BE8D127CA84D61E5344B21D5A268A08DF668DA&utm_source=standard&utm_medium=email&utm_campaign=000_LAN36_0000019083_Book%20author%20congrats%20NEW&utm_content=EN_34155_20231201&mkt-key=A1C59CB911661EDEA3C59EFF82911B74)
-7. **MSLS: Meta-graph Search with Learnable Supernet for Heterogeneous Graph Neural Networks.** 
+8. **MSLS: Meta-graph Search with Learnable Supernet for Heterogeneous Graph Neural Networks.** 
 <br> Yili Wang, **Jiamin Chen**, Qiutong Li, Changlong He and Jianliang Gao．
 <br> <font face="微软雅黑" color=blue size=2>International Conference on Scientific and Statistical Database Management</font> 2023 CCF C.
 <br>[Paper](https://dl.acm.org/doi/10.1145/3603719.3603727)
-8. **Spatio-Temporal based Architecture Topology Search for Multivariate Time Series Prediction.** 
+9. **Spatio-Temporal based Architecture Topology Search for Multivariate Time Series Prediction.** 
 <br> Xinqi Lyu, Yibo Chen, **Jiamin Chen**, Xiangyue Liu, Jianliang Gao. 
 <br> <font face="微软雅黑" color=blue size=2>IEEE International Conference on Big Data</font> 2022 CCF C.
 <br>[Paper](https://ieeexplore.ieee.org/document/10020729)
-9. **Memory Augmented Graph Learning Networks for Multivariate Time Series Forecasting.** 
+10. **Memory Augmented Graph Learning Networks for Multivariate Time Series Forecasting.** 
 <br> Xiangyue Liu, Xinqi Lyu, Xiangchi Zhang, Jianliang Gao, **Jiamin Chen**. 
 <br> <font face="微软雅黑" color=blue size=2>ACM International Conference on Information and Knowledge Management</font> 2022 CCF B.
 <br>[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557638)
-
 
 ## Teaching Assistant
 * University Physics, Nanchang University, Spring 2015.
