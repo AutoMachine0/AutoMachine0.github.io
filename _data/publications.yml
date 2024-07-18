@@ -29,7 +29,7 @@ main:
   - title: Auto-GNAS A Parallel Graph Neural Architecture Search Framework
     authors: <strong>Jiamin Chen</strong>, Jianliang Gao, Yibo Chen, Babatounde Moctard Oloulade, Tengfei Lyu, and Zhao Li.
     conference_short: TPDS
-    conference: Transactions on Parallel and Distributed Systems <strong>(TPDS)</strong>, 2022, CCF A 中科院2区 top.
+    conference: IEEE Transactions on Parallel and Distributed Systems <strong>(TPDS)</strong>, 2022, CCF A 中科院2区 top.
     pdf: https://ieeexplore.ieee.org/document/9714826
     code: https://github.com/AutoMachine0/Auto-GNAS
     image: ./assets/img/AutoGNAS.png
