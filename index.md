@@ -3,14 +3,22 @@ layout: homepage
 ---
 
 ## About Me
+<p align="justify">陈家民，贵州师范大学大数据与计算机科学系讲师，2024年获得中南大学计算机科学与技术博士学位，曾任职于科大讯飞研究院、浙江移动信息技术部负责人工智能算法开发。
+已在CCF A/B、中科院1/2区top等期刊与会议发表学术论文30余篇(SIGIR,BIBM,ECAI,TPDS,IS,JBHI...),
+担任多个中科院1区期刊审稿人(KBS,PR,TKDE...),具备多年硕士、博士科研指导经验。
+目前研究兴趣为基于大语言模型的图学习及其应用、图自动机器学习、基于图的生物信息学。
+欢迎各类涉及人工智能的科研与技术合作。
+<font color=red>喜欢与科研中能一起吃苦耐劳，生活中能一起娱乐的学生共事，对人工智能研究感兴趣的学生可随时联系我。</font> </p>
 
-<p align="justify">I am Jiamin Chen (陈家民). I received my Ph.D. in Computer Science and Technology from Central South University (CSU) in June 2024.
-During my doctoral studies, my research interests included graph neural architecture search (GNAS) acceleration methods, GNAS applications, and time series analysis.
-I have published several papers in the following conferences and journals (SIGIR, BIBM, CIKM, ECAI, ICONIP, TPDS, INS, TCBB, TETC, JBHI etc.).
+微信：radiocjm / 邮箱：chenjiamin1024@gmail.com
+
+<p align="justify">I am Chen Jiamin, and I am currently a lecturer at the School of Big Data and Computer Science, Guizhou Normal University. .
+I received my Ph.D. in Computer Science and Technology from Central South University (CSU) in June 2024.
+My research involves graph automated machine learning and its applications.
+I have published several papers in the following conferences and journals (SIGIR, CIKM, BIBM, TPDS, IS, TCBB, etc.).
 My <a href="https://github.com/AutoMachine0">Github</a> and <a href="https://scholar.google.com/citations?user=5WbxPrIAAAAJ&hl=zh-CN">Google Scholar</a>.
-<font color=red>I am looking for a suitable position in academia.
+<font color=red>Academic and technical cooperation is welcome.
 If you are interested in me, please feel free to contact me.</font> </p>
-
 
 ## Research Interests
 
