@@ -12,7 +12,7 @@ layout: homepage
 
 微信：radiocjm / 邮箱：chenjiamin1024@gmail.com
 
-<p align="justify">I am Chen Jiamin, and I am currently a lecturer at the School of Big Data and Computer Science, Guizhou Normal University. .
+<p align="justify">I am Chen Jiamin, and I am currently a lecturer at the School of Big Data and Computer Science, Guizhou Normal University.
 I received my Ph.D. in Computer Science and Technology from Central South University (CSU) in June 2024.
 My research involves graph automated machine learning and its applications.
 I have published several papers in the following conferences and journals (SIGIR, CIKM, BIBM, TPDS, IS, TCBB, etc.).
