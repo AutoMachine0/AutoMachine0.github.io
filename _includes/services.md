@@ -15,6 +15,7 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69"><autocolor>IEEE Transactions on Knowledge and Data Engineering (TKDE)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/pattern-recognition"><autocolor>Pattern Recognition (PR)</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/neural-networks"><autocolor>Neural Networks (NN)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/knowledge-based-systems"><autocolor>Knowledge-Based Systems (KBS)</autocolor></a></li>
   <li><a href="https://academic.oup.com/bib"><autocolor>Briefings in Bioinformatics (BIB)</autocolor></a></li>
   <li><a href="https://dl.acm.org/journal/csur"><autocolor>ACM Computing Surveys (ACM CS)</autocolor></a></li>
@@ -136,7 +137,7 @@ https://github.com/Zhen-Peng-Wu/DAGC)
 <br>[Paper](https://ieeexplore.ieee.org/document/9995685)
 
 **Relation Time-aware Heterogeneous Dynamic Graph Neural Networks.** 
-<br> Yili Wang，**Jiamin Chen<sup>#</sup>**，Qiutong Li，Changlong He，Jianliang Gao.
+<br> Yili Wang<sup>#</sup>，**Jiamin Chen<sup>#</sup>**，Qiutong Li，Changlong He，Jianliang Gao.
 <br> <font face="微软雅黑" color=blue size=2>European Conference on Artificial Intelligence</font> 2024 CCF B.
 <br> Accepted
 
