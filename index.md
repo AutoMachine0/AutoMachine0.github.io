@@ -12,7 +12,7 @@ layout: homepage
 
 微信：radiocjm / 邮箱：chenjiamin1024@gmail.com
 
-<p align="justify">I am Chen Jiamin, and I am currently a lecturer at the School of Big Data and Computer Science, Guizhou Normal University.
+<p align="justify">I am Chen Jiamin, and I am currently a assistant professor at the School of Big Data and Computer Science, Guizhou Normal University.
 I received my Ph.D. in Computer Science and Technology from Central South University (CSU) in June 2024.
 My research involves graph automated machine learning and its applications.
 I have published several papers in the following conferences and journals (SIGIR, CIKM, BIBM, TPDS, IS, TCBB, etc.).
@@ -32,6 +32,7 @@ If you are interested in me, please feel free to contact me.</font> </p>
 - &nbsp; &nbsp;**2016.11-2017.02 iFLYTEK Research Institute / Intern-researcher** <img src="./assets/img/TEK.png" alt="TEK" style="float:left; width:20px; height:20px;">
 - &nbsp; &nbsp;**2017.06-2020.07 China Mobile Zhejiang Company / IT Engineer** <img src="./assets/img/CHINAMOBILE.png" alt="CHINAMOBILE" style="float:left; width:20px; height:20px;">
 - &nbsp; &nbsp;**2020.09-2024.06 Central South University / Doctoral Degree** <img src="./assets/img/CSU.png" alt="CSU" style="float:left; width:20px; height:20px;">
+- &nbsp; &nbsp;**2024.09- Guizhou Normal University / Assistant Professor** <img src="./assets/img/GZNU.png" alt="CSU" style="float:left; width:20px; height:20px;">
 
 
 <!--## News
