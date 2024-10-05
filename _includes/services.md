@@ -77,6 +77,11 @@ Wu.
 <br> <font face="微软雅黑" color=blue size=2>Neural Networks</font> 2024 CCF B 中科院 1 区.
 <br> [paper](https://www.sciencedirect.com/science/article/pii/S0893608024003514)
 
+**Asymmetric augmented paradigm-based graph neural architecture search** 
+<br> Zhenpeng Wu, **Jiamin Chen**, Raeed Al-Sabri, Babatounde Moctard Oloulade, and Jianliang Gao.
+<br> <font face="微软雅黑" color=blue size=2>Information Processing and Management</font> 2024 CCF B 中科院 1 区 Top. 
+<br>[Paper](https://www.sciencedirect.com/science/article/pii/S0306457324002565)
+
 **Depth-adaptive graph neural architecture search for graph classification.** 
 <br> Zhenpeng Wu, **Jiamin Chen**, Raeed Al-Sabri, Babatounde Moctard Oloulade, and Jianliang Gao.
 <br> <font face="微软雅黑" color=blue size=2>Knowledge-Based Systems</font> 2024 CCF C 中科院 1 区 Top. 
