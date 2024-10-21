@@ -17,6 +17,7 @@
   <li><a href="https://www.sciencedirect.com/journal/pattern-recognition"><autocolor>Pattern Recognition (PR)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/neural-networks"><autocolor>Neural Networks (NN)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/knowledge-based-systems"><autocolor>Knowledge-Based Systems (KBS)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297"><autocolor>IEEE Transactions on Emerging Topics in Computational Intelligence (TETC)</autocolor></a></li>
   <li><a href="https://academic.oup.com/bib"><autocolor>Briefings in Bioinformatics (BIB)</autocolor></a></li>
   <li><a href="https://dl.acm.org/journal/csur"><autocolor>ACM Computing Surveys (ACM CS)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10462"><autocolor>Artificial Intelligence Review (AIR)</autocolor></a></li>
