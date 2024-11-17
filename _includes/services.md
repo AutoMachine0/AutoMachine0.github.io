@@ -145,7 +145,7 @@ https://github.com/Zhen-Peng-Wu/DAGC)
 **Relation Time-aware Heterogeneous Dynamic Graph Neural Networks.** 
 <br> Yili Wang<sup>#</sup>，**Jiamin Chen<sup>#</sup>**，Qiutong Li，Changlong He，Jianliang Gao.
 <br> <font face="微软雅黑" color=blue size=2>European Conference on Artificial Intelligence</font> 2024 CCF B.
-<br> Accepted
+<br>[Paper](https://ebooks.iospress.nl/doi/10.3233/FAIA240699)
 
 **TemDep: Temporal Dependency Priority for Multivariate Time Series Prediction.** 
 <br> Shu Liu, Jiaheng Wang, **Jiamin Chen<sup>\*</sup>**, Jianliang Gao and Yuhui Zhong．
