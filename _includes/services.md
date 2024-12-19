@@ -89,6 +89,11 @@ Wu.
 <br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124009559) [Code]( 
 https://github.com/Zhen-Peng-Wu/DAGC)
 
+**Shapley-guided pruning for efficient graph neural architecture prediction in distributed learning environments.** 
+<br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Raeed Al-Sabri, Zhenpeng Wu, Monir Abdullah. 
+<br><font face="微软雅黑" color=blue size=2>Information Sciences</font> 2024 CCF B 中科院 1 区 Top.
+<br>[Paper](https://www.sciencedirect.com/science/article/pii/S0020025524016098) [Code](https://github.com/BeObm/DGNAP)
+
 **Graph Neural Architecture Search: A Survey.** 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Tengfei Lyu, Raeed Al-Sabri. 
 <br> <font face="微软雅黑" color=blue size=2>Tsinghua Science and Technology</font> 2021 中科院 1 区.
