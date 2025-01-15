@@ -89,6 +89,11 @@ Wu.
 <br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124009559) [Code]( 
 https://github.com/Zhen-Peng-Wu/DAGC)
 
+**Decoupled Graph Neural Architecture Search with Variable Propagation Operation and Enhanced Evolutionary Strategy.** 
+<br> Changlong He，**Jiamin Chen**，Qiutong Li，Yili Wang，Jianliang Gao.
+<br> <font face="微软雅黑" color=blue size=2>Knowledge and Information Systems</font> 2025 CCF B 中科院 4 区.
+<br> Accepted
+
 **Shapley-guided pruning for efficient graph neural architecture prediction in distributed learning environments.** 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Raeed Al-Sabri, Zhenpeng Wu, Monir Abdullah. 
 <br><font face="微软雅黑" color=blue size=2>Information Sciences</font> 2024 CCF B 中科院 1 区 Top.
@@ -120,6 +125,10 @@ https://github.com/Zhen-Peng-Wu/DAGC)
 **AutoTGRL: An Automatic Text-graph Representation Learning Framework.** 
 <br> Raeed Al-Sabri, Jianliang Gao, **Jiamin Chen**, Babatounde Moctard Oloulade and Tengfei Lyu.<br> <font face="微软雅黑" color=blue size=2>Neural Computing and Application</font> 2023 CCF C 中科院 4 区.
 <br>[Paper](https://link.springer.com/article/10.1007/s00521-023-09226-0)
+
+**Spectral adversarial attack on graph via node injection.** 
+<br> Weihua Ou, Yi Yao, Jiahao Xiong, Yunshun Wu ,Xianjun Deng, Jianping Gou, **Jiamin Chen**.<br> <font face="微软雅黑" color=blue size=2>Neural Networks</font> 2025 CCF B 中科院 1 区.
+<br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608024009754)
 
 **Impact of Reentry Speed on the Transmission of Obliquely Incident THz Waves in Realistic Plasma Sheaths.** 
 <br> Kai Yuan, **Jiamin Chen**, Linfang Shen, Xiaohua Deng, Ming Yao, Lujun Hong. 
@@ -170,12 +179,12 @@ https://github.com/Zhen-Peng-Wu/DAGC)
 **Adaptive Drug Repositioning Prediction.** 
 <br> Zhenpeng Wu, **Jiamin Chen**, Jianliang Gao. 
 <br> <font face="微软雅黑" color=blue size=2>IEEE International Conference on Bioinformatics and Biomedicine</font> 2024 CCF B.
-<br> Accepted
+<br> [paper](https://ieeexplore.ieee.org/document/10822495)
 
 **M3GNAS: Multi-modal Multi-view Graph Neural Architecture Search for Medical Outcome Predictions.** 
 <br> Raeed AL-sabri, Jianliang Gao, **Jiamin Chen**, Babatounde Moctard Oloulade, Zhenpeng Wu, Monir Abdullah, and Xiaohua Hu. 
 <br> <font face="微软雅黑" color=blue size=2>IEEE International Conference on Bioinformatics and Biomedicine</font> 2024 CCF B.
-<br> Accepted
+<br> [paper](https://ieeexplore.ieee.org/document/10821927)
 
 **MSLS: Meta-graph Search with Learnable Supernet for Heterogeneous Graph Neural Networks.** 
 <br> Yili Wang, **Jiamin Chen**, Qiutong Li, Changlong He and Jianliang Gao．
