@@ -23,6 +23,9 @@
   <li><a href="https://link.springer.com/journal/10462"><autocolor>Artificial Intelligence Review (AIR)</autocolor></a></li>
 </ul>
 
+## Research Funding
+**Principal Investigator, Engineering Research Center of Micro-Nano and Intelligent Manufacturing, Ministry of Education(No.WZG-202506), 2025.**
+
 ## All Publications
 \* Correspond Author | # Equal Contribution
 
@@ -39,7 +42,8 @@
 <br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025524006133) [Code](https://github.com/AutoMachine0/D2GNAS)
 
 **AutoDDI: Drug–drug Interaction Prediction with Automated Graph Neural Network.** 
-<br> Jianliang Gao, Zhenpeng Wu, Raeed Al-Sabri, Babatounde Moctard Oloulade, and **Jiamin Chen<sup>\*</sup>**.<br> <font face="微软雅黑" color=blue size=2>IEEE Journal of Biomedical and Health Informatics</font> 2024 CCF C 中科院 2 区 Top. 
+<br> Jianliang Gao, Zhenpeng Wu, Raeed Al-Sabri, Babatounde Moctard Oloulade, and **Jiamin Chen<sup>\*</sup>**.
+<br> <font face="微软雅黑" color=blue size=2>IEEE Journal of Biomedical and Health Informatics</font> 2024 CCF C 中科院 2 区 Top. 
 <br>[Paper](https://ieeexplore.ieee.org/document/10380606) [Code](https://github.com/csubigdata-Organization/AutoDDI)
 
 **CommGNAS: Unsupervised Graph Neural Architecture Search for Community Detection.** 
@@ -78,7 +82,7 @@ Wu.
 <br> <font face="微软雅黑" color=blue size=2>Neural Networks</font> 2024 CCF B 中科院 1 区.
 <br> [paper](https://www.sciencedirect.com/science/article/pii/S0893608024003514)
 
-**Asymmetric augmented paradigm-based graph neural architecture search** 
+**Asymmetric augmented paradigm-based graph neural architecture search.** 
 <br> Zhenpeng Wu, **Jiamin Chen**, Raeed Al-Sabri, Babatounde Moctard Oloulade, and Jianliang Gao.
 <br> <font face="微软雅黑" color=blue size=2>Information Processing and Management</font> 2024 CCF B 中科院 1 区 Top. 
 <br>[Paper](https://www.sciencedirect.com/science/article/pii/S0306457324002565)
@@ -89,7 +93,7 @@ Wu.
 <br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124009559) [Code]( 
 https://github.com/Zhen-Peng-Wu/DAGC)
 
-**Decoupled Graph Neural Architecture Search with Variable Propagation Operation and Enhanced Evolutionary Strategy.** 
+**Decoupled Graph Neural Architecture Search with Explainable Variable Propagation Operation.** 
 <br> Changlong He，**Jiamin Chen**，Qiutong Li，Yili Wang，Jianliang Gao.
 <br> <font face="微软雅黑" color=blue size=2>Knowledge and Information Systems</font> 2025 CCF B 中科院 4 区.
 <br> Accepted
@@ -114,20 +118,24 @@ https://github.com/Zhen-Peng-Wu/DAGC)
 <br> <font face="微软雅黑" color=blue size=2>Machine Learning</font> 2022 CCF B 中科院 3 区.
 <br>[Paper](https://link.springer.com/article/10.1007/s10994-022-06287-5)
 
-**Multi-view Graph Neural Architecture Search for Biomedical Entity and Relation Extraction.** <br> Raeed AI-Sabri, Jianliang Gao, **Jiamin Chen**, Babatounde MOCTARD Oloulade, Tengfei Lyu. 
+**Multi-view Graph Neural Architecture Search for Biomedical Entity and Relation Extraction.**
+ <br> Raeed AI-Sabri, Jianliang Gao, **Jiamin Chen**, Babatounde MOCTARD Oloulade, Tengfei Lyu. 
 <br><font face="微软雅黑" color=blue size=2>IEEE/ACM Transactions on Computational Biology and Bioinformatics</font> 2022 CCF B 中科院 3 区.
 <br>[Paper](https://ieeexplore.ieee.org/document/9881878) [Code](https://github.com/alsabriraeed/MVGNAS)
 
 **Adaptive Graph Contrastive Learning with Joint Optimization of Data Augmentation and Graph Encoder.** 
-<br> Zhenpeng Wu, **Jiamin Chen**, Raeed Al-Sabri, Babatounde Moctard Oloulade, and Jianliang Gao.<br> <font face="微软雅黑" color=blue size=2>Knowledge and Information Systems</font> 2023 CCF B 中科院 4 区. 
+<br> Zhenpeng Wu, **Jiamin Chen**, Raeed Al-Sabri, Babatounde Moctard Oloulade, and Jianliang Gao.
+<br> <font face="微软雅黑" color=blue size=2>Knowledge and Information Systems</font> 2023 CCF B 中科院 4 区. 
 <br>[Paper](https://link.springer.com/article/10.1007/s10115-023-01979-3) [Code](https://github.com/Zhen-Peng-Wu/AdaAE)
 
 **AutoTGRL: An Automatic Text-graph Representation Learning Framework.** 
-<br> Raeed Al-Sabri, Jianliang Gao, **Jiamin Chen**, Babatounde Moctard Oloulade and Tengfei Lyu.<br> <font face="微软雅黑" color=blue size=2>Neural Computing and Application</font> 2023 CCF C 中科院 4 区.
+<br> Raeed Al-Sabri, Jianliang Gao, **Jiamin Chen**, Babatounde Moctard Oloulade and Tengfei Lyu.
+<br> <font face="微软雅黑" color=blue size=2>Neural Computing and Application</font> 2023 CCF C 中科院 4 区.
 <br>[Paper](https://link.springer.com/article/10.1007/s00521-023-09226-0)
 
 **Spectral adversarial attack on graph via node injection.** 
-<br> Weihua Ou, Yi Yao, Jiahao Xiong, Yunshun Wu ,Xianjun Deng, Jianping Gou, **Jiamin Chen**.<br> <font face="微软雅黑" color=blue size=2>Neural Networks</font> 2025 CCF B 中科院 1 区.
+<br> Weihua Ou, Yi Yao, Jiahao Xiong, Yunshun Wu ,Xianjun Deng, Jianping Gou, **Jiamin Chen**.
+<br> <font face="微软雅黑" color=blue size=2>Neural Networks</font> 2025 CCF B 中科院 1 区.
 <br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608024009754)
 
 **Impact of Reentry Speed on the Transmission of Obliquely Incident THz Waves in Realistic Plasma Sheaths.** 
