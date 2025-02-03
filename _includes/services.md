@@ -24,7 +24,8 @@
 </ul>
 
 ## Research Funding
-**Principal Investigator, Engineering Research Center of Micro-Nano and Intelligent Manufacturing, Ministry of Education(No.WZG-202506), 2025.**
+1. **Principal Investigator**, Enhancing GNAS Generalization via Graph Structure Learning for Mining Fault Prediction.
+<br>Engineering Research Center of Micro-Nano and Intelligent Manufacturing, Ministry of Education(No.WZG-202506), 2025-2026.
 
 ## All Publications
 \* Correspond Author | # Equal Contribution
