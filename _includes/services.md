@@ -91,13 +91,12 @@ Wu.
 **Depth-adaptive graph neural architecture search for graph classification.** 
 <br> Zhenpeng Wu, **Jiamin Chen**, Raeed Al-Sabri, Babatounde Moctard Oloulade, and Jianliang Gao.
 <br> <font face="微软雅黑" color=blue size=2>Knowledge-Based Systems</font> 2024 CCF C 中科院 1 区 Top. 
-<br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124009559) [Code]( 
-https://github.com/Zhen-Peng-Wu/DAGC)
+<br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124009559) [Code](https://github.com/Zhen-Peng-Wu/DAGC)
 
 **Decoupled Graph Neural Architecture Search with Explainable Variable Propagation Operation.** 
 <br> Changlong He，**Jiamin Chen**，Qiutong Li，Yili Wang，Jianliang Gao.
 <br> <font face="微软雅黑" color=blue size=2>Knowledge and Information Systems</font> 2025 CCF B 中科院 4 区.
-
+<br>[Paper](https://link.springer.com/article/10.1007/s10115-024-02329-7) [Code](https://github.com/frankdoge/DGNAS-EP)
 
 **Shapley-guided pruning for efficient graph neural architecture prediction in distributed learning environments.** 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Raeed Al-Sabri, Zhenpeng Wu, Monir Abdullah. 
