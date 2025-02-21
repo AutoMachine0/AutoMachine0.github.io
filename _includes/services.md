@@ -97,7 +97,7 @@ https://github.com/Zhen-Peng-Wu/DAGC)
 **Decoupled Graph Neural Architecture Search with Explainable Variable Propagation Operation.** 
 <br> Changlong He，**Jiamin Chen**，Qiutong Li，Yili Wang，Jianliang Gao.
 <br> <font face="微软雅黑" color=blue size=2>Knowledge and Information Systems</font> 2025 CCF B 中科院 4 区.
-<br>[Paper](https://link.springer.com/article/10.1007/s10115-024-02329-7)
+
 
 **Shapley-guided pruning for efficient graph neural architecture prediction in distributed learning environments.** 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Raeed Al-Sabri, Zhenpeng Wu, Monir Abdullah. 
