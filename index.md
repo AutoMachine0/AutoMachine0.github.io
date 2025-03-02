@@ -10,7 +10,7 @@ layout: homepage
 欢迎各类涉及人工智能的科研与技术合作。
 <font color=red>喜欢科研中能一起吃苦耐劳，生活中能一起娱乐的同学，对人工智能研究感兴趣的同学可随时联系我。</font> </p>
 
-微信：radiocjm / 邮箱：chenjiamin1024@gmail.com
+邮箱：chenjiamin1024@gmail.com
 
 <p align="justify">I am Chen Jiamin, and I am currently a assistant professor at the School of Big Data and Computer Science, Guizhou Normal University.
 I received my Ph.D. in Computer Science and Technology from Central South University (CSU) in June 2024.
