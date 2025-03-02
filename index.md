@@ -34,6 +34,8 @@ If you are interested in me, please feel free to contact me.</font> </p>
 - &nbsp; &nbsp;**2020.09-2024.06 Central South University / Doctoral Degree** <img src="./assets/img/CSU.png" alt="CSU" style="float:left; width:20px; height:20px;">
 - &nbsp; &nbsp;**2024.09- Guizhou Normal University / Assistant Professor** <img src="./assets/img/GZNU.png" alt="CSU" style="float:left; width:20px; height:20px;">
 
+## News
+- **2025.02 Our work won the [2024 Outstanding Paper Award](https://mp.weixin.qq.com/s/ZcPqkmSh4bBLaqN9s1LP1w) of singhua Sci Technol!**
 
 <!--## News
 
