@@ -13,7 +13,7 @@ main:
   - title: Attribute-decoupled Graph Neural Architecture Search for Discrete Point Anomaly Detection
     authors: <strong>Jiamin Chen</strong>, Zhenpeng Wu, Tairan Huang, Xinqiu Zhang, Siyang Xiao, Weihua Ou.
     conference_short: ESWA
-    conference: Expert Systems with Applications <strong>(ESWA)</strong>, 2026, 中科院1区 TOP.
+    conference: Expert Systems with Applications <strong>(ESWA)</strong>, 2026, CCF C 中科院1区 TOP.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0957417426012613
     code: https://github.com/AutoMachine0/ADGNAS
     image: ./assets/img/ADGNAS.png
@@ -21,7 +21,7 @@ main:
   - title: Decoupled Differentiable Graph Neural Architecture Search
     authors: <strong>Jiamin Chen</strong>, Jianliang Gao, Zhenpeng Wu, Raeed Al-Sabri, Babatounde Moctard Oloulade.
     conference_short: INS
-    conference: Information Sciences <strong>(INS)</strong>, 2024, 中科院1区 TOP.
+    conference: Information Sciences <strong>(INS)</strong>, 2024, CCF B 中科院1区 TOP.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0020025524006133
     code: https://github.com/AutoMachine0/D2GNAS
     image: ./assets/img/D2GNAS.png
@@ -37,7 +37,7 @@ main:
   - title: Auto-GNAS A Parallel Graph Neural Architecture Search Framework
     authors: <strong>Jiamin Chen</strong>, Jianliang Gao, Yibo Chen, Babatounde Moctard Oloulade, Tengfei Lyu, and Zhao Li.
     conference_short: TPDS
-    conference: IEEE Transactions on Parallel and Distributed Systems <strong>(TPDS)</strong>, 2022, CCF A 中科院2区 top.
+    conference: IEEE Transactions on Parallel and Distributed Systems <strong>(TPDS)</strong>, 2022, CCF A 中科院2区 TOP.
     pdf: https://ieeexplore.ieee.org/document/9714826
     code: https://github.com/AutoMachine0/Auto-GNAS
     image: ./assets/img/AutoGNAS.png

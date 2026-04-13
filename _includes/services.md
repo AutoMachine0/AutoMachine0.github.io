@@ -17,34 +17,42 @@
   <li><a href="https://www.sciencedirect.com/journal/pattern-recognition"><autocolor>Pattern Recognition (PR)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/neural-networks"><autocolor>Neural Networks (NN)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/knowledge-based-systems"><autocolor>Knowledge-Based Systems (KBS)</autocolor></a></li>
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297"><autocolor>IEEE Transactions on Emerging Topics in Computational Intelligence (TETC)</autocolor></a></li>
-  <li><a href="https://academic.oup.com/bib"><autocolor>Briefings in Bioinformatics (BIB)</autocolor></a></li>
-  <li><a href="https://dl.acm.org/journal/csur"><autocolor>ACM Computing Surveys (ACM CS)</autocolor></a></li>
-  <li><a href="https://link.springer.com/journal/10462"><autocolor>Artificial Intelligence Review (AIR)</autocolor></a></li>
+ <li><a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence"><autocolor> Engineering Applications of Artificial Intelligence (EAAI)</autocolor></a></li>
+ <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing</autocolor></a></li>
+ <li><a href="https://www.sciencedirect.com/journal/information-sciences"><autocolor>Information Sciences (INS)</autocolor></a></li>
 </ul>
 
 ## Research Funding
-1. **Principal Investigator**, Enhancing GNAS Generalization via Graph Structure Learning for Mining Fault Prediction.
-<br>Engineering Research Center of Micro-Nano and Intelligent Manufacturing, Ministry of Education(No.WZG-202506), 2025-2026.
+1. **主持**, 结构自适应分子语言模型研究.
+<br>贵州省基础研究计划面上项目，项目编号: 黔科合基础MS\[2026\]409，2026.01-2028.12
+2. **主持**, 基于图结构学习的图神经架构搜索泛化性优化研究与其在矿山设备故障预测中的应用.
+<br>凯里学院开放基金项目，项目编号：WZG-202506，2025.01-2026.10.
+3. **参研(第一)**, 面向矿山智能运维的高质量数据集开发与大模型训练关键技术应用及示范.
+<br2025年度定向支持贵安新区科技重点项目，项目编号：QKHCG-DXGA\[2025\]-ZD002，2025.01-2027.12.
 
 ## All Publications
 \* Correspond Author | # Equal Contribution
 
 #### Journal Paper
 
+**Attribute-decoupled Graph Neural Architecture Search for Discrete Point Anomaly Detection.** 
+<br> **Jiamin Chen**, Zhenpeng Wu, Tairan Huang, Xinqiu Zhang, Siyang Xiao, Weihua Ou. 
+<br><font face="微软雅黑" color=blue size=2>Expert Systems with Applications</font> 2026 CCF C 中科院 1 区 TOP. 
+<br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426012613) [Code](https://github.com/AutoMachine0/ADGNAS)
+
 **Auto-GNAS: A Parallel Graph Neural Architecture Search Framework.** 
 <br> **Jiamin Chen**, Jianliang Gao, Yibo Chen, Babatounde MOCTARD Oloulade, Tengfei Lyu, Zhao Li. 
-<br><font face="微软雅黑" color=blue size=2>IEEE Transactions on Parallel and Distributed Systems</font> 2022 CCF A 中科院 2 区 Top. 
+<br><font face="微软雅黑" color=blue size=2>IEEE Transactions on Parallel and Distributed Systems</font> 2022 CCF A 中科院 2 区 TOP. 
 <br>[Paper](https://ieeexplore.ieee.org/document/9714826) [Code](https://github.com/AutoMachine0/Auto-GNAS)
 
 **Decoupled Differentiable Graph Neural Architecture Search.** 
 <br> **Jiamin Chen**, Jianliang Gao, Zhenpeng Wu, Raeed Al-Sabri, Babatounde Moctard Oloulade. 
-<br><font face="微软雅黑" color=blue size=2>Information Sciences</font> 2024 CCF B 中科院 1 区 Top.
+<br><font face="微软雅黑" color=blue size=2>Information Sciences</font> 2024 CCF B 中科院 1 区 TOP.
 <br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025524006133) [Code](https://github.com/AutoMachine0/D2GNAS)
 
 **AutoDDI: Drug–drug Interaction Prediction with Automated Graph Neural Network.** 
 <br> Jianliang Gao, Zhenpeng Wu, Raeed Al-Sabri, Babatounde Moctard Oloulade, and **Jiamin Chen<sup>\*</sup>**.
-<br> <font face="微软雅黑" color=blue size=2>IEEE Journal of Biomedical and Health Informatics</font> 2024 CCF C 中科院 2 区 Top. 
+<br> <font face="微软雅黑" color=blue size=2>IEEE Journal of Biomedical and Health Informatics</font> 2024 CCF C 中科院 2 区 TOP. 
 <br>[Paper](https://ieeexplore.ieee.org/document/10380606) [Code](https://github.com/csubigdata-Organization/AutoDDI)
 
 **CommGNAS: Unsupervised Graph Neural Architecture Search for Community Detection.** 
@@ -76,6 +84,37 @@
 <br> **Jiamin Chen**, Kai Yuan, Linfang Shen, Xiaohua Deng, Lujun Hong, Ming Yao. 
 <br><font face="微软雅黑" color=blue size=2>Progress in Electromagnetics Research</font> 2016 中科院 1 区.
 <br>[Paper](https://www.jpier.org/pier/pier.php?paper=16061202)
+
+**Drug Repositioning Based on Expert Knowledge Augmented Graph Neural Network.** 
+<br> Zhenpeng Wu, Cheng Yan, Jiamin Chen, Siyang Xiao, and Jianliang Gao.
+<br> <font face="微软雅黑" color=blue size=2>Journal of Biomedical and Health Informatics</font> 2025 CCF C 中科院 2 区 TOP.
+<br>[Paper](https://pubmed.ncbi.nlm.nih.gov/41247891/) [Code](https://github.com/csubigdata-Organization/DReKGNN)
+
+**Regularized Evidential Neural Networks for Deep Active Learning.** 
+<br> Pengju Wang, Sicong Zhang, Rongrong Chen, Jiamin Chen, Yufeng Fan, Lulu Ning, Yongfeng Cao.
+<br> <font face="微软雅黑" color=blue size=2>Pattern Recognition</font> 2025 CCF B 中科院 1 区 TOP.
+<br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325014992)
+
+**Improving the Representational Power of Graph Neural Networks via Mixed Substructure Learning.** 
+<br> Zhenpeng Wu, Jiamin Chen, Jianliang Gao.
+<br> <font face="微软雅黑" color=blue size=2>Information Fusion</font> 2025 中科院 1 区 TOP.
+<br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S156625352500630X) [Code](https://github.com/csubigdata-Organization/MixSL)
+
+
+**Heterogeneous Graph Completion Collaborative Network for Attribute-missing Heterogeneous Graph Representation Learning.** 
+<br> Yuanjun Yang, Weihua Ou, Sichao Fu, Jiamin Chen, Yunshun Wu.
+<br> <font face="微软雅黑" color=blue size=2>Expert Systems With Applications</font> 2025 CCF C 中科院 1 区 TOP.
+<br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425020214)
+
+**Lightweight Completion with High-order Semantic Attributes for Heterogeneous Sparse Attribute Graph Learning.** 
+<br> Yuanjun Yanga, Weihua Ou, Yunshun Wua, Jiamin Chen, Hao Tianb, Jianping Gou, Zhonghua Liu, Bineng Zhong.
+<br> <font face="微软雅黑" color=blue size=2>Knowledge-Based Systems</font> 2025 CCF C 中科院 1 区 TOP.
+<br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125015540)[Code](https://github.com/HeteroMind/LC-HSA1)
+
+**DSA-GNAS: Graph Neural Architecture Search with Deep Semantic Adaptation of Large Language Models** 
+<br> Siyang Xiao, Jiamin Chen, Zhenpeng Wu, Shuqing W, Jianliang Gao. 
+<br> <font face="微软雅黑" color=blue size=2>Knowledge and Information Systems</font> 2026 CCF B 中科院 4 区.
+<br>[Paper](https://link.springer.com/article/10.1007/s10115-026-02732-2)
 
 **AutoAMS: Automated Attention-Based Multi-Modal Graph Learning Architecture Search.** 
 <br> Raeed Al-Sabri, Jianliang Gao, **Jiamin Chen**, Babatounde Moctard Oloulade and Zhenpeng
@@ -229,13 +268,3 @@ Wu.
 ## Selected Honors and Awards
 * Principal Scholarship (Only 1 doctoral students recieced this award in CSU School of Computing) 2023
 * National Scholarship for Doctoral Students 2022
-* Enterprise Scholarship for Doctoral Students (CSU) 2022
-* First-class Academic Scholarship for Doctoral Students (CSU) 2021 2022 2023
-* Excellent Doctoral Students (CSU) 2021 2022 2023
-* ACM SIGIR Student Travel Grants 2021
-* First-class Scholarship for Excellent Postgraduate Students (NCU) 2016
-* Excellent Student Cadres for Postgraduate Students (NCU) 2015
-* Excellent Postgraduate Student of the College of Science (NCU) 2015
-* First-class Academic Scholarship for Postgraduate Students (NCU) 2014 2015 2016
-* Excellent Graduates (NCU) 2014
-* First-class Scholarship for Excellent Undergraduate Students (NCU) 2013
