@@ -9,11 +9,19 @@ main:
   #  bibtex: https://bib.yliu.me/MICCAI23.txt
   #  image: ./assets/img/D2GNAS.png
   #  notes: Early Accept
+  
+  - title: Attribute-decoupled Graph Neural Architecture Search for Discrete Point Anomaly Detection
+    authors: <strong>Jiamin Chen</strong>, Zhenpeng Wu, Tairan Huang, Xinqiu Zhang, Siyang Xiao, Weihua Ou.
+    conference_short: ESWA
+    conference: Expert Systems with Applications <strong>(ESWA)</strong>, 2026, 中科院1区 TOP.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0957417426012613
+    code: https://github.com/AutoMachine0/ADGNAS
+    image: ./assets/img/ADGNAS.png
     
   - title: Decoupled Differentiable Graph Neural Architecture Search
     authors: <strong>Jiamin Chen</strong>, Jianliang Gao, Zhenpeng Wu, Raeed Al-Sabri, Babatounde Moctard Oloulade.
     conference_short: INS
-    conference: Information Sciences <strong>(INS)</strong>, 2024, CCF B 中科院1区 top.
+    conference: Information Sciences <strong>(INS)</strong>, 2024, 中科院1区 TOP.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0020025524006133
     code: https://github.com/AutoMachine0/D2GNAS
     image: ./assets/img/D2GNAS.png
