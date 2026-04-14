@@ -24,16 +24,16 @@
 
 ## Research Funding
 1. **结构自适应分子语言模型研究**,**主持**
-<br>贵州省基础研究计划面上项目，项目编号: 黔科合基础MS\[2026\]409，2026.01-2028.12
+<br>贵州省基础研究计划面上项目，项目编号: 黔科合基础 MS \[2026\] 409，2026.01-2028.12
 2. **基于图结构学习的图神经架构搜索泛化性优化研究与其在矿山设备故障预测中的应用**, **主持**
-<br>凯里学院开放基金项目，项目编号：WZG-202506，2025.01-2026.10.
+<br>凯里学院开放基金项目，项目编号: WZG-202506，2025.01-2026.10.
 3. **面向矿山智能运维的高质量数据集开发与大模型训练关键技术应用及示范**, **参研(第一)**,
-<br>2025年度定向支持贵安新区科技重点项目，项目编号：QKHCG-DXGA\[2025\]-ZD002，2025.01-2027.12.
+<br>2025年度定向支持贵安新区科技重点项目，项目编号: 黔科合成果 DXGA \[2025\] 重点 002，2025.01-2027.12.
 
-## All Publications
-\* Correspond Author | # Equal Contribution
+## 发表论文
+\* 通讯作者 | # 共同一作
 
-#### Journal Paper
+#### 期刊论文
 
 **Attribute-decoupled Graph Neural Architecture Search for Discrete Point Anomaly Detection.** 
 <br> **Jiamin Chen**, Zhenpeng Wu, Tairan Huang, Xinqiu Zhang, Siyang Xiao, Weihua Ou. 
@@ -116,19 +116,18 @@
 <br>[Paper](https://link.springer.com/article/10.1007/s10115-026-02732-2)
 
 **AutoAMS: Automated Attention-Based Multi-Modal Graph Learning Architecture Search.** 
-<br> Raeed Al-Sabri, Jianliang Gao, **Jiamin Chen**, Babatounde Moctard Oloulade and Zhenpeng
-Wu. 
+<br> Raeed Al-Sabri, Jianliang Gao, **Jiamin Chen**, Babatounde Moctard Oloulade and Zhenpeng Wu. 
 <br> <font face="微软雅黑" color=blue size=2>Neural Networks</font> 2024 CCF B 中科院 1 区.
 <br> [paper](https://www.sciencedirect.com/science/article/pii/S0893608024003514)
 
 **Asymmetric augmented paradigm-based graph neural architecture search.** 
 <br> Zhenpeng Wu, **Jiamin Chen**, Raeed Al-Sabri, Babatounde Moctard Oloulade, and Jianliang Gao.
-<br> <font face="微软雅黑" color=blue size=2>Information Processing and Management</font> 2024 CCF B 中科院 1 区 Top. 
+<br> <font face="微软雅黑" color=blue size=2>Information Processing and Management</font> 2024 CCF B 中科院 1 区 TOP. 
 <br>[Paper](https://www.sciencedirect.com/science/article/pii/S0306457324002565)
 
 **Depth-adaptive graph neural architecture search for graph classification.** 
 <br> Zhenpeng Wu, **Jiamin Chen**, Raeed Al-Sabri, Babatounde Moctard Oloulade, and Jianliang Gao.
-<br> <font face="微软雅黑" color=blue size=2>Knowledge-Based Systems</font> 2024 CCF C 中科院 1 区 Top. 
+<br> <font face="微软雅黑" color=blue size=2>Knowledge-Based Systems</font> 2024 CCF C 中科院 1 区 TOP. 
 <br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124009559) [Code](https://github.com/Zhen-Peng-Wu/DAGC)
 
 **Decoupled Graph Neural Architecture Search with Explainable Variable Propagation Operation.** 
@@ -138,7 +137,7 @@ Wu.
 
 **Shapley-guided pruning for efficient graph neural architecture prediction in distributed learning environments.** 
 <br> Babatounde Moctard Oloulade, Jianliang Gao, **Jiamin Chen**, Raeed Al-Sabri, Zhenpeng Wu, Monir Abdullah. 
-<br><font face="微软雅黑" color=blue size=2>Information Sciences</font> 2024 CCF B 中科院 1 区 Top.
+<br><font face="微软雅黑" color=blue size=2>Information Sciences</font> 2024 CCF B 中科院 1 区 TOP.
 <br>[Paper](https://www.sciencedirect.com/science/article/pii/S0020025524016098) [Code](https://github.com/BeObm/DGNAP)
 
 **Graph Neural Architecture Search: A Survey.** 
@@ -186,7 +185,7 @@ Wu.
 <br><font face="微软雅黑" color=blue size=2>Astronomy & Astrophysics</font> 2022 中科院 2 区.
 <br>[Paper](https://www.aanda.org/articles/aa/abs/2022/02/aa42169-21/aa42169-21.html) [Code](https://github.com/wscdaxia/coreCode_cnn)
 
-#### Conference Paper
+#### 会议论文
 
 **GraphPAS: Parallel Architecture Search for Graph Neural Networks.** 
 <br> **Jiamin Chen**, Jianliang Gao, Yibo Chen, Babatounde MOCTARD Oloulade, Tengfei Lyu, Zhao Li. 
@@ -247,18 +246,15 @@ Wu.
 <br> <font face="微软雅黑" color=blue size=2>ACM International Conference on Information and Knowledge Management</font> 2022 CCF B.
 <br>[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557638)
 
-## Patent
+## 专利
 
 **基于图神经网络自动建模的社区发现方法及个性推荐方法.**
 <br> 高建良, **陈家民**. 
-<br> 专利授权号:ZL 2022 1 0254385.9
-<br> <font face="微软雅黑" color=blue size=2>国家知识产权局</font> 2022.
-
+<br> 专利授权号:ZL 2022 1 0254385.9 <font face="微软雅黑" color=blue size=2>国家知识产权局</font> 2022.
 
 **图神经网络结构优化搜索方法、系统及存储介质.**
 <br> 高建良, **陈家民**. 
-<br> 专利公开号:CN113379035A
-<br> <font face="微软雅黑" color=blue size=2>国家知识产权局</font> 2021.
+<br> 专利公开号:CN113379035A <font face="微软雅黑" color=blue size=2>国家知识产权局</font> 2021.
 
 ## Teaching
 * 大学物理(本科生)
@@ -266,8 +262,8 @@ Wu.
 * 论文阅读与写作(研究生)
 
 ## Selected Honors and Awards
-*2026年获计算机系2025年度优秀教师 
-*2025年获中南大学2024年优秀博士学位论文 
-*2025年获《清华大学学报自然科学》2024年优秀论文奖 
-*2023年获中南大学校长奖学金 拔尖奖
-*2022年获博士国家奖学金
+* 2026年获计算机系2025年度优秀教师 
+* 2025年获中南大学2024年优秀博士学位论文 
+* 2025年获《清华大学学报自然科学》2024年优秀论文奖 
+* 2023年获中南大学校长奖学金 拔尖奖
+* 2022年获博士国家奖学金
