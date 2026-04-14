@@ -23,12 +23,12 @@
 </ul>
 
 ## Research Funding
-1. **主持**, 结构自适应分子语言模型研究.
+1. **结构自适应分子语言模型研究**,**主持**
 <br>贵州省基础研究计划面上项目，项目编号: 黔科合基础MS\[2026\]409，2026.01-2028.12
-2. **主持**, 基于图结构学习的图神经架构搜索泛化性优化研究与其在矿山设备故障预测中的应用.
+2. **基于图结构学习的图神经架构搜索泛化性优化研究与其在矿山设备故障预测中的应用**, **主持**
 <br>凯里学院开放基金项目，项目编号：WZG-202506，2025.01-2026.10.
-3. **参研(第一)**, 面向矿山智能运维的高质量数据集开发与大模型训练关键技术应用及示范.
-<br2025年度定向支持贵安新区科技重点项目，项目编号：QKHCG-DXGA\[2025\]-ZD002，2025.01-2027.12.
+3. **面向矿山智能运维的高质量数据集开发与大模型训练关键技术应用及示范**, **参研(第一)**,
+<br>2025年度定向支持贵安新区科技重点项目，项目编号：QKHCG-DXGA\[2025\]-ZD002，2025.01-2027.12.
 
 ## All Publications
 \* Correspond Author | # Equal Contribution
@@ -86,33 +86,32 @@
 <br>[Paper](https://www.jpier.org/pier/pier.php?paper=16061202)
 
 **Drug Repositioning Based on Expert Knowledge Augmented Graph Neural Network.** 
-<br> Zhenpeng Wu, Cheng Yan, Jiamin Chen, Siyang Xiao, and Jianliang Gao.
+<br> Zhenpeng Wu, Cheng Yan, **Jiamin Chen**, Siyang Xiao, and Jianliang Gao.
 <br> <font face="微软雅黑" color=blue size=2>Journal of Biomedical and Health Informatics</font> 2025 CCF C 中科院 2 区 TOP.
 <br>[Paper](https://pubmed.ncbi.nlm.nih.gov/41247891/) [Code](https://github.com/csubigdata-Organization/DReKGNN)
 
 **Regularized Evidential Neural Networks for Deep Active Learning.** 
-<br> Pengju Wang, Sicong Zhang, Rongrong Chen, Jiamin Chen, Yufeng Fan, Lulu Ning, Yongfeng Cao.
+<br> Pengju Wang, Sicong Zhang, Rongrong Chen, **Jiamin Chen**, Yufeng Fan, Lulu Ning, Yongfeng Cao.
 <br> <font face="微软雅黑" color=blue size=2>Pattern Recognition</font> 2025 CCF B 中科院 1 区 TOP.
 <br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325014992)
 
 **Improving the Representational Power of Graph Neural Networks via Mixed Substructure Learning.** 
-<br> Zhenpeng Wu, Jiamin Chen, Jianliang Gao.
+<br> Zhenpeng Wu, **Jiamin Chen**, Jianliang Gao.
 <br> <font face="微软雅黑" color=blue size=2>Information Fusion</font> 2025 中科院 1 区 TOP.
 <br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S156625352500630X) [Code](https://github.com/csubigdata-Organization/MixSL)
 
-
 **Heterogeneous Graph Completion Collaborative Network for Attribute-missing Heterogeneous Graph Representation Learning.** 
-<br> Yuanjun Yang, Weihua Ou, Sichao Fu, Jiamin Chen, Yunshun Wu.
+<br> Yuanjun Yang, Weihua Ou, Sichao Fu, **Jiamin Chen**, Yunshun Wu.
 <br> <font face="微软雅黑" color=blue size=2>Expert Systems With Applications</font> 2025 CCF C 中科院 1 区 TOP.
 <br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425020214)
 
 **Lightweight Completion with High-order Semantic Attributes for Heterogeneous Sparse Attribute Graph Learning.** 
-<br> Yuanjun Yanga, Weihua Ou, Yunshun Wua, Jiamin Chen, Hao Tianb, Jianping Gou, Zhonghua Liu, Bineng Zhong.
+<br> Yuanjun Yanga, Weihua Ou, Yunshun Wua, **Jiamin Chen**, Hao Tianb, Jianping Gou, Zhonghua Liu, Bineng Zhong.
 <br> <font face="微软雅黑" color=blue size=2>Knowledge-Based Systems</font> 2025 CCF C 中科院 1 区 TOP.
 <br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125015540)[Code](https://github.com/HeteroMind/LC-HSA1)
 
 **DSA-GNAS: Graph Neural Architecture Search with Deep Semantic Adaptation of Large Language Models** 
-<br> Siyang Xiao, Jiamin Chen, Zhenpeng Wu, Shuqing W, Jianliang Gao. 
+<br> Siyang Xiao, **Jiamin Chen**, Zhenpeng Wu, Shuqing W, Jianliang Gao. 
 <br> <font face="微软雅黑" color=blue size=2>Knowledge and Information Systems</font> 2026 CCF B 中科院 4 区.
 <br>[Paper](https://link.springer.com/article/10.1007/s10115-026-02732-2)
 
@@ -250,21 +249,25 @@ Wu.
 
 ## Patent
 
-**Community discovery method and personalized recommendation method based on automatic modeling of graph neural network.**
-<br> Jianliang Gao, **Jiamin Chen**. 
-<br> Patent number:ZL 2022 1 0254385.9
-<br> <font face="微软雅黑" color=blue size=2>China National Intellectual Property Administration</font> 2022.
+**基于图神经网络自动建模的社区发现方法及个性推荐方法.**
+<br> 高建良, **陈家民**. 
+<br> 专利授权号:ZL 2022 1 0254385.9
+<br> <font face="微软雅黑" color=blue size=2>国家知识产权局</font> 2022.
 
 
-**Graph neural network structure optimization search method, system and storage medium.**
-<br> Jianliang Gao, **Jiamin Chen**. 
-<br> Public number:CN113379035A
-<br> <font face="微软雅黑" color=blue size=2>China National Intellectual Property Administration</font> 2021.
+**图神经网络结构优化搜索方法、系统及存储介质.**
+<br> 高建良, **陈家民**. 
+<br> 专利公开号:CN113379035A
+<br> <font face="微软雅黑" color=blue size=2>国家知识产权局</font> 2021.
 
-
-## Teaching Assistant
-* University Physics, Nanchang University, Spring 2015.
+## Teaching
+* 大学物理(本科生)
+* 软件工程(本科生)
+* 论文阅读与写作(研究生)
 
 ## Selected Honors and Awards
-* Principal Scholarship (Only 1 doctoral students recieced this award in CSU School of Computing) 2023
-* National Scholarship for Doctoral Students 2022
+*2026年获计算机系2025年度优秀教师 
+*2025年获中南大学2024年优秀博士学位论文 
+*2025年获《清华大学学报自然科学》2024年优秀论文奖 
+*2023年获中南大学校长奖学金 拔尖奖
+*2022年获博士国家奖学金
