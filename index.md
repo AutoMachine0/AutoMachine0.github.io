@@ -26,13 +26,6 @@ If you are interested in me, please feel free to contact me.</font> </p>
 - **自动机器学习**
 - **大语言模型应用**
 
-## Research Interests
-
-- **Bioinformatics based on Graph Representation Learning**
-- **Automatic Machine Learning**
-- **Large Language Model Applications**
-
-
 ## 个人经历
 - &nbsp; &nbsp;**2010.09-2014.06 南昌大学 / 学士** <img src="./assets/img/NCU.png" alt="NCU" style="float:left; width:20px; height:20px;">
 - &nbsp; &nbsp;**2014.09-2017.06 南昌大学 / 硕士** <img src="./assets/img/NCU.png" alt="NCU" style="float:left; width:20px; height:20px;">
