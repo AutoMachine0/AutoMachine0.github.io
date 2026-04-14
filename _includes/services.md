@@ -22,7 +22,7 @@
  <li><a href="https://www.sciencedirect.com/journal/information-sciences"><autocolor>Information Sciences (INS)</autocolor></a></li>
 </ul>
 
-## Research Funding
+## 科研项目
 1. **结构自适应分子语言模型研究**,**主持**
 <br>贵州省基础研究计划面上项目，项目编号: 黔科合基础 MS \[2026\] 409，2026.01-2028.12
 2. **基于图结构学习的图神经架构搜索泛化性优化研究与其在矿山设备故障预测中的应用**, **主持**
@@ -246,22 +246,22 @@
 <br> <font face="微软雅黑" color=blue size=2>ACM International Conference on Information and Knowledge Management</font> 2022 CCF B.
 <br>[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557638)
 
-## 专利
+## 国家专利
 
 **基于图神经网络自动建模的社区发现方法及个性推荐方法.**
 <br> 高建良, **陈家民**. 
-<br> 专利授权号:ZL 2022 1 0254385.9 <font face="微软雅黑" color=blue size=2>国家知识产权局</font> 2022.
+<br> 专利授权号:ZL 2022 1 0254385.9 , 国家知识产权局, 2022.
 
 **图神经网络结构优化搜索方法、系统及存储介质.**
 <br> 高建良, **陈家民**. 
-<br> 专利公开号:CN113379035A <font face="微软雅黑" color=blue size=2>国家知识产权局</font> 2021.
+<br> 专利公开号:CN113379035A, 国家知识产权局, 2021.
 
-## Teaching
+## 大学课程授课
 * 大学物理(本科生)
 * 软件工程(本科生)
 * 论文阅读与写作(研究生)
 
-## Selected Honors and Awards
+## 部分获奖
 * 2026年获计算机系2025年度优秀教师 
 * 2025年获中南大学2024年优秀博士学位论文 
 * 2025年获《清华大学学报自然科学》2024年优秀论文奖 

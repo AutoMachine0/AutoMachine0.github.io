@@ -2,8 +2,8 @@
 layout: homepage
 ---
 
-## About Me
-<p align="justify">陈家民，贵州师范大学大数据与计算机科学学院助理教授，2024年获得中南大学计算机科学与技术博士学位，曾任职于科大讯飞研究院、浙江移动信息技术部负责人工智能算法开发。
+## 个人简介
+<p align="justify">陈家民，贵州师范大学大数据与计算机科学学院讲师，2024年获得中南大学计算机科学与技术博士学位，曾任职于科大讯飞研究院、浙江移动信息技术部负责人工智能算法开发。
 已在CCF A/B、中科院1/2区TOP等期刊与会议发表学术论文40余篇(SIGIR,BIBM,ECAI,TPDS,IS, ESWA...),
 担任多个中科院1区期刊审稿人(KBS,PR,NN,TKDE...),具备多年硕士、博士科研指导经验。
 目前研究兴趣为基于图表示学习的生物信息学，自动机器学习，大语言模型应用。
@@ -20,6 +20,12 @@ My <a href="https://github.com/AutoMachine0">Github</a> and <a href="https://sch
 <font color=red>Academic and technical cooperation is welcome.
 If you are interested in me, please feel free to contact me.</font> </p>
 
+## 研究方向
+
+- **基于图表示学习的生物信息学**
+- **自动机器学习**
+- **大语言模型应用**
+
 ## Research Interests
 
 - **Bioinformatics based on Graph Representation Learning**
@@ -27,13 +33,13 @@ If you are interested in me, please feel free to contact me.</font> </p>
 - **Large Language Model Applications**
 
 
-## Experience
-- &nbsp; &nbsp;**2010.09-2014.06 Nanchang University / Bachelor Degree** <img src="./assets/img/NCU.png" alt="NCU" style="float:left; width:20px; height:20px;">
-- &nbsp; &nbsp;**2014.09-2017.06 Nanchang University / Master Degree** <img src="./assets/img/NCU.png" alt="NCU" style="float:left; width:20px; height:20px;">
-- &nbsp; &nbsp;**2016.11-2017.02 iFLYTEK Research Institute / Intern-researcher** <img src="./assets/img/TEK.png" alt="TEK" style="float:left; width:20px; height:20px;">
-- &nbsp; &nbsp;**2017.06-2020.07 China Mobile Zhejiang Company / IT Engineer** <img src="./assets/img/CHINAMOBILE.png" alt="CHINAMOBILE" style="float:left; width:20px; height:20px;">
-- &nbsp; &nbsp;**2020.09-2024.06 Central South University / Doctoral Degree** <img src="./assets/img/CSU.png" alt="CSU" style="float:left; width:20px; height:20px;">
-- &nbsp; &nbsp;**2024.09- Guizhou Normal University / Assistant Professor** <img src="./assets/img/GZNU.png" alt="CSU" style="float:left; width:20px; height:20px;">
+## 个人经历
+- &nbsp; &nbsp;**2010.09-2014.06 南昌大学 / 学士** <img src="./assets/img/NCU.png" alt="NCU" style="float:left; width:20px; height:20px;">
+- &nbsp; &nbsp;**2014.09-2017.06 南昌大学 / 硕士** <img src="./assets/img/NCU.png" alt="NCU" style="float:left; width:20px; height:20px;">
+- &nbsp; &nbsp;**2016.11-2017.02 科大讯飞研究院 / 研究员** <img src="./assets/img/TEK.png" alt="TEK" style="float:left; width:20px; height:20px;">
+- &nbsp; &nbsp;**2017.06-2020.07 浙江移动信息技术部云计算中心 / 人工智能算法工程师** <img src="./assets/img/CHINAMOBILE.png" alt="CHINAMOBILE" style="float:left; width:20px; height:20px;">
+- &nbsp; &nbsp;**2020.09-2024.06 中南大学 / 博士** <img src="./assets/img/CSU.png" alt="CSU" style="float:left; width:20px; height:20px;">
+- &nbsp; &nbsp;**2024.09- 贵州师范大学 / 讲师** <img src="./assets/img/GZNU.png" alt="CSU" style="float:left; width:20px; height:20px;">
 
 ## News
 - **2025.02 *Graph Neural Architecture Search: A Survey* won the [2024 Outstanding Paper Award](https://mp.weixin.qq.com/s/ZcPqkmSh4bBLaqN9s1LP1w) of singhua Sci Technol!**
